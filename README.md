@@ -1,4 +1,4 @@
-# Fall 2021 Group Meeting and Seminar on the Grenvillian Orogeny and the Midcontinent Rift
+# Fall 2021 Seminar on the Grenvillian Orogeny and the Midcontinent Rift
 
 Mondays from 12:00 to 1:30 pm in McCone 401
 
