@@ -1,0 +1,36 @@
+site,dir_dec,dir_inc,dir_alpha95,dir_n_samples,lat,lon,dir_k,vgp_lat,vgp_lon,dir_comp_name
+North of GF,50,73,20,6,45.13,-79.6,12,NaN,NaN,AN
+GFTZ,106,76,13,8,45.13,-79.6,18,NaN,NaN,AN
+Kiosk,90,70,10,6,45.13,-79.6,46,NaN,NaN,AN
+Britt,113,72,18,3,45.13,-79.6,49,NaN,NaN,AN
+Shawanaga,78,74,10,3,45.13,-79.6,143,NaN,NaN,AN
+Parry Sound,106,60,,2,45.13,-79.6,21,NaN,NaN,AN
+Novar,120,72,,2,45.13,-79.6,37,NaN,NaN,AN
+Huntsville,106,61,32,3,45.13,-79.6,16,NaN,NaN,AN
+McLintock,98,53,,1,45.13,-79.6,,NaN,NaN,AN
+Algonquin,138,66,50,3,45.13,-79.6,7,NaN,NaN,AN
+Muskoka,92,70,28,3,45.13,-79.6,21,NaN,NaN,AN
+North of GF,266,-40,,1,45.13,-79.6,,NaN,NaN,AR
+GFTZ,284,-57,,1,45.13,-79.6,,NaN,NaN,AR
+Kiosk,282,-66,27,4,45.13,-79.6,13,NaN,NaN,AR
+Britt,288,-39,,2,45.13,-79.6,17,NaN,NaN,AR
+Shawanaga,277,-70,,2,45.13,-79.6,8,NaN,NaN,AR
+Parry Sound,306,-67,,1,45.13,-79.6,,NaN,NaN,AR
+Novar,291,-66,,2,45.13,-79.6,23,NaN,NaN,AR
+Huntsville,287,-49,25,3,45.13,-79.6,25,NaN,NaN,AR
+McLintock,284,-53,15,4,45.13,-79.6,25,NaN,NaN,AR
+Algonquin,308,-58,20,5,45.13,-79.6,16,NaN,NaN,AR
+Rosseau,301,-73,,1,45.13,-79.6,,NaN,NaN,AR
+Muskoka,268,-68,8,6,45.13,-79.6,76,NaN,NaN,AR
+North of GF,61,69,20,7,45.13,-79.6,10,-49,155,AN+AR
+GFTZ,106,74,12,9,45.13,-79.6,19,-29,134,AN+AR
+Kiosk,275,-68,10,10,45.13,-79.6,25,-29,147,AN+AR
+Britt,290,-59,22,5,45.13,-79.6,14,-14,149,AN+AR
+Shawanaga,267,-73,15,5,45.13,-79.6,27,-36,141,AN+AR
+Parry Sound,292,-62,22,3,45.13,-79.6,33,-15,145,AN+AR
+Novar,295,-69,15,4,45.13,-79.6,38,-20,137,AN+AR
+Huntsville,287,-55,15,6,45.13,-79.6,21,-12,154,AN+AR
+McLintock,283,-53,18,5,45.13,-79.6,19,-13,158,AN+AR
+Algonquin,311,-61,16,8,45.13,-79.6,13,-5,135,AN+AR
+Rosseau,301,-73,,1,45.13,-79.6,,-22,130,AN+AR
+Muskoka,269,-69,8,9,45.13,-79.6,49,-33,147,AN+AR
