@@ -1,0 +1,5 @@
+site,dir_dec,dir_inc,dir_alpha95,dir_n_samples,lat,lon,dir_k,vgp_lat,vgp_lon,dir_comp_name
+1,112,69,12,3,46.25,80.75,136,,,AN
+2,112,73,11,3,46.25,80.75,162,,,AN
+3,110,66,14,8,46.25,80.75,100,,,AN
+4,103,77,3,93,46.25,80.75,2178,,,AN
