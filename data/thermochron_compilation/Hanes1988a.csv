@@ -1,0 +1,4 @@
+﻿Sample_No,Age,Error_Plus,Error_Minus,Age_Method,Age_Interpretation,Age_Note,Age_Material,Age_Technique,Age_Qualifier,Geological_Province,Province,Latitude,Longitude,Location,Geological_Info,Rock_Type,Rock_Description,References
+ESC,899,3,3,Ar/Ar,Cooling,Plateau age,Muscovite,Ar Furnace-Step,,Grenville Province,ON,,,Elzevir,"Central Metasedimentary belt, Elzevir Terrane",,,
+BLSC-61,871,19,19,Ar/Ar,Cooling,Plateau age,Muscovite,Ar Furnace-Step,,Grenville Province,ON,,,Bark Lake,"Central Metasedimentary belt, Elzevir Terrane",,,
+BLSC-61,811,4,4,Ar/Ar,Cooling,Plateau age,K-Feldspar,Ar Furnace-Step,,Grenville Province,ON,,,Bark Lake,"Central Metasedimentary belt, Bancroft Terrane",,,
