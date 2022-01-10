@@ -24,11 +24,12 @@ Zircon,zircon,Hf,812,54,1.61E+03,0.1,1400,1600,,#FA58D0
 Zircon,zircon,Th,792,34,8.63E+01,0.1,1450,1650,,#000000
 Zircon,zircon,Li,275,11,7.17E-07,0.1,700,1150,,#A4A4A4
 Titanite,titanite,Pb,329,64,0.000111,0.1,650,1027,Cherniak (1993),
-Monazite ,monazite ,Pb,592,39,9.38E-01,0.1,1100,1350,Cherniak (2004),
+Monazite,monazite ,Pb,592,39,9.38E-01,0.1,1100,1350,Cherniak (2004),
 Xenotime,xenotime,Pb,382,64,2.95E-09,0.1,1200,1400,Cherniak (2006),
 Apatite,apatite,Pb,231,,1.27E-08,0.1,600,1200,"Cherniak et al. (1991); Watson et al., (1985)",
 Apatite,apatite,U,442,78,0.00000408,0.1,1150,1250,Cherniak (2005),
-Rutile,rutile,Pb,250,12,3.9E-10,0.1,700,1100,Cherniak (2000),
+Rutile,rutile,Pb,250,12,3.90E-10,0.1,700,1100,Cherniak (2000),
 Hornblende,hornblende,Ar,268,7,0.0000024,0.1,500,900,Harrison (1981),
 Biotite,biotite,Ar,197,9,0.0000077,0.001,600,750,"Harrison et al., (1985)",
-Muscovite,muscovite,Ar,264,29,0.00023,,,,,
+Muscovite,muscovite,Ar,264,29,0.00023,,600,730,"Harrison et al., (2009)",
+K-Feldspar,k-feldpsar,Ar,183,1,0.00982,,500,800,Foland (1974),

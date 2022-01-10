@@ -9,7 +9,7 @@ def cooling_history_1(start_age, start_temp, rate_1, end_age):
     end_temp = start_temp - (start_age - end_age)*rate_1
     return np.array(end_temp)
 
-def cooling_history_1(start_age, start_temp, rate_1, end_age):
+def get_cooling_history_1(start_age, start_temp, rate_1, end_age):
 #     assume we start from the oldest 
     end_temp = start_temp - (start_age - end_age)*rate_1
     return np.array(end_temp)
@@ -29,7 +29,7 @@ def cooling_history_2(start_age, start_temp, rate_1, rate_2, changepoint_1, chan
             this_age = changepoint
     return np.array(this_temp)
 
-def get_cooling_history_point_2(start_age, start_temp, rate_1, rate_2, changepoint_1, changepoint_2, end_age):
+def get_cooling_history_2(start_age, start_temp, rate_1, rate_2, changepoint_1, changepoint_2, end_age):
 #     assume we start from the oldest 
     this_temp = start_temp
     this_age = start_age
@@ -58,7 +58,7 @@ def cooling_history_3(start_age, start_temp, rate_1, rate_2, rate_3, changepoint
             this_age = changepoint
     return np.array(this_temp)
 
-def get_cooling_history_point_3(start_age, start_temp, rate_1, rate_2, rate_3, changepoint_1, changepoint_2, changepoint_3, end_age):
+def get_cooling_history_3(start_age, start_temp, rate_1, rate_2, rate_3, changepoint_1, changepoint_2, changepoint_3, end_age):
 #     assume we start from the oldest 
     this_temp = start_temp
     this_age = start_age
