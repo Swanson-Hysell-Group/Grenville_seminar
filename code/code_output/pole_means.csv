@@ -1,0 +1,5 @@
+PoleName,SLat,SLon,PLat,PLon,A95,K,N,PolarityZone,PmagRef,AgeNominal,AgeLower,AgeUpper,AgeInfo,AgeRef,Gaussian_2sigma,GaussianOrUniform,Q,color
+Whitestone pole,45.66,-79.87,-18.3,148.7,6.9,57.4,9,AR,"Ueno et al., 1975a",987.2,969.9,1009.2,see thermal history,"Dallmeyer et a., 1980",,gaussian,,#B82431
+Haliburton pole,44.95,-78.44,-35.1,141.6,5.2,18.6,42,AR,"Buchan et al., 1973, 1976; Warnock et al., 2000",988.4,977.1,999.9,see thermal history,"Berger and York 1981; Warnock 2000; Cosca 1992, 1995; Hanes 1988; Mezger 1991, 1993",,gaussian,,#0000FF
+Adirondack pole,44.2,-74.0,-31.6,133.3,28.3,1.7,36,AR+AN,"Brown et al., 2012",966.0,952.0,976.0,see thermal history,"Mezger et al., 1989, 1991, 1992; Streepey et al., 2000, 2004",,gaussian,,#930E26
+Allard Urbain pole,44.2,-74.0,-10.6,154.0,11.2,11.1,17,AR+AN,"Hargraves 1967, 1974; Robertson 1979",909.7,902.7,919.2,see thermal history,"Morisset et al., 2009",,gaussian,,#3B7185
