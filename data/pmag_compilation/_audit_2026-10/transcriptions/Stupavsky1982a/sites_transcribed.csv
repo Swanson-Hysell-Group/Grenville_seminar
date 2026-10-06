@@ -1,0 +1,24 @@
+table_ref,site,unit,comp_paper,comp_compiled,dec,inc,k,a95,n,n_type,N_total,r,site_lat,site_lon,vgp_lat,vgp_lon,dp,dm,tilt,polarity_note,notes
+"Table 2, p. 824",A: AFs VR,French River anorthosites (collection),A,AN (compiled row 0 'site 1'),112,69,,12,3,demagnetizing steps [3],,,,,,,,,unknown (in situ; gneissic anorthosite),,"NOT a site: vector removed between 3 selected AF steps of pilot specimens; no k printed"
+"Table 2, p. 824",A: Ts VR,French River anorthosites (collection),A,AN (compiled row 1 'site 2'),112,73,,11,3,demagnetizing steps [3],,,,,,,,,unknown,,"NOT a site: vector removed between 3 thermal steps"
+"Table 2, p. 824",A: NRM C,French River anorthosites (collection),A,AN (compiled row 2 'site 3'),110,66,,14,8,sites,19,,,,,,,,unknown,,"core-level screening of NRM; 8 sites"
+"Table 2, p. 824",A: NRM P,French River anorthosites (collection),A,AN (compiled row 3 'site 4'),103,77,,3,93,specimens (93),199,,,,,,,,unknown,,"population-level screening of NRM (93 of 199 specimen directions)"
+"Table 2, p. 824",B: NRM P,French River anorthosites (collection),B,,122,38,,3,35,specimens (35),,,,,,,,,unknown,,
+"Table 2, p. 824",B: AFs EP,French River anorthosites (collection),B,,122,30,,13,16,specimens (16),,,,,,,,,unknown,,EP = end-point of pilot specimens
+"Table 2, p. 824",B: Ts VR,French River anorthosites (collection),B,,127,31,,5,3,demagnetizing steps [3],,,,,,,,,unknown,,
+"Table 2, p. 824",B: AF C,French River anorthosites (collection),B,,125,34,,7,14,sites,,,,,,,,,unknown,,
+"Table 2, p. 824",B: AF S,French River anorthosites (collection),B,,124,31,,7,14,sites,,,,,,,,,unknown,,
+"Table 2, p. 824",B: AF P,French River anorthosites (collection),B,,125,27,,2,63,specimens (63),,,,,,,,,unknown,,
+"Table 2, p. 824",B: T=550C C,French River anorthosites (collection),B,,126,25,,5,11,sites,,,,,,,,,unknown,,
+"Table 2, p. 824",B: T=550C S,French River anorthosites (collection),B,,128,24,,4,14,sites,,,,,,,,,unknown,,
+"Table 2, p. 824",B: T=550C P,French River anorthosites (collection),B,,126,25,,2,90,specimens (90),,,,,,,,,unknown,,
+"Table 2, p. 824",B: T=650C C,French River anorthosites (collection),B,,129,26,,8,10,sites,,,,,,,,,unknown,,
+"Table 2, p. 824",B: T=650C S,French River anorthosites (collection),B,,129,24,,6,11,sites,,,,,,,,,unknown,,
+"Table 2, p. 824",B: T=650C P,French River anorthosites (collection),B,,126,24,,3,57,specimens (57),,,,,,,,,unknown,,
+"Table 2, p. 824",B: T=670C C,French River anorthosites (collection),B,,123,20,,36,2,sites,,,,,,,,,unknown,,
+"Table 2, p. 824",B: T=670C S,French River anorthosites (collection),B,,127,19,,10,5,sites,,,,,,,,,unknown,,
+"Table 2, p. 824",B: T=670C P,French River anorthosites (collection),B,,125,19,,5,28,specimens (28),,,,,,,,,unknown,,
+"Table 2, p. 824",C: Ts EP,French River anorthosites (collection),C,,154,8,,18,12,specimens (12),,,,,,,,,unknown,,
+"Table 2, p. 824",C: T=650C P,French River anorthosites (collection),C,,158,26,,7,16,specimens (16),,,,,,,,,unknown,,
+"Table 2, p. 824",C: T=670C P,French River anorthosites (collection),C,,157,25,,6,8,specimens (8),,,,,,,,,unknown,,
+"Table 2, p. 824",D: T=670C P,French River anorthosites (collection),D,,93,22,,7,6,specimens (6),,,,,,,,,unknown,,

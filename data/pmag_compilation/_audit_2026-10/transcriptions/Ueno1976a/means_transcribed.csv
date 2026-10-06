@@ -1,0 +1,4 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table II, p. 310","CH magnetization (sites 51, 54, 66, 70, 72)",CH,CH,5,sites,119,51,15,,,,-7,155,19,28,,,,"pole printed 07S, 155E; dm, dp printed 28, 19"
+"Table II, p. 310","CS magnetization (sites 53, 64, 78', 79')",CS,,4,sites,186,-38,70,,,,-61,273,8,13,,,,"pole printed 61S, 087W"
+"Table II, p. 310","CV magnetization (sites 78, 79)",CV,,2,sites,60,-24,64,,,,-8,226,18,34,,,,"pole printed 08S, 134W"

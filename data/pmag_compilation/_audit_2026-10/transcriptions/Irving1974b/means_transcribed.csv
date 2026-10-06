@@ -1,0 +1,3 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 4, p. 5486","M1 hcf magnetization, mean of sites",hcf,AR,24,sites,266.2,-76.8,32,5.3,,,-42.2,140.6,9.2,9.9,,,,"Model A pole 42.2S 140.6E, error (dm, dp) 9.9, 9.2; Model B pole 42.4S 139.3E K 11 A95 9.1"
+"Table 4, p. 5486","M2 mcf magnetization, mean of sites",mcf,AN,13,sites,114,38,17,10,,,0,164,9,12,,,,"Model A pole 0, 164E, error (dm, dp) 12, 9"

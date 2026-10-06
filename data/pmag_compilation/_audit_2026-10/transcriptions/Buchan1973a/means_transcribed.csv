@@ -1,0 +1,5 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 29","Group A mean, unit weight to sites (D11 excluded)",A,AR,10,sites,266,-73,64,6,,,,,,,,,n.a. (intrusive),
+"Table 1, p. 29",A palaeopole,A,AR,,,,,,,,,-39,144,,,,,,"printed '144E, 39S'; no dp/dm/A95"
+"Table 1, p. 29","Group B mean, unit weight to specimens",B,B,13,specimens,299,1,8,16,,,,,,,,,n.a. (intrusive),
+"Table 1, p. 29",B palaeopole,B,B,,,,,,,,,21,171,,,,,,"printed '171E, 21N'"

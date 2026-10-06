@@ -1,0 +1,4 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 22","Mealy Mountains northwest component, all sites",northwest (normal),AR,11,sites,300,-19,7,,,,8.4,180.7,,,12.0,12,,angular SD 31; deltaR 9.3; mean (north) pole 179.3W 8.4N k=12 alpha95=12.0; all cores 56: 298/-18 k7
+"Table 1, p. 22","Mealy Mountains east component, all sites",east (reversed; 3 normal sites inverted),AN,14,sites,87,65,35,,,,-37.9,178.3,,,9.1,17,,angular SD 14; deltaR 3.6; mean (south) pole 181.7W 37.9S k=17 alpha95=9.1; all cores 66: 088/64 k35
+"Table 2, p. 28","Shabogamo Gabbro, all sites",stable,AN,13,sites,97,30,8,,,,-10.1,188.8,,,12,10,,angular SD 28; deltaR 7.7; mean (south) pole 171.2W 10.1S k=10 alpha95=12; all cores 70: 98/31 k8

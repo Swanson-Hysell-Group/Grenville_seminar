@@ -1,0 +1,18 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table II, p. 320-321",Metagabbros (G) SE,SE,AN,9,sites,135,30,38.9,8.4,,,-16,-32,5.2,9.3,,,n.a.,"n=109 specimens, 72%; pole printed 32W 16S (true VGP, recomputes from ~45.6N 76.7W)"
+"Table II, p. 320-321",Metagabbros (G) NE,NE,,7,sites,37,41,12.7,17.7,,,53,37,13.1,21.5,,,n.a.,"n=16 specimens, 11%; pole printed 37E 53N (text p.326 calls it antipole; pole 217E 53S)"
+"Table II, p. 320-321",Metagabbros (G) W+,W+,,5,sites,249,45,17.9,19.3,,,6,-134,23.4,37.1,,,n.a.,"n=15, 10%; Table pole 134W 6N (true VGP); abstract/text give 44E or 46E 6S (antipode)"
+"Table II, p. 320-321",Metagabbros (G) W-,W-,AR,4,sites,258,-34,25.0,18.7,,,21,8,12.2,21.4,,,n.a.,"n=11, 7%; pole printed 8E 21N = antipode of true VGP (~21.5S 188E)"
+"Table II, p. 320-321",Metadolerites (D) SSW,SSW,,,,216,34,134,21.7,,,-18,-112,14.2,24.8,,,n.a.,"N blank; pole printed 112W 18S; text p.326 says 258E 18S (=102W; inconsistent), p.328 112W 18S"
+"Table II, p. 320",Metadolerites (D) SE,SE,,1,,146,23,,,,,,,,,,,n.a.,"Table I D8 SE gives -23 (sign differs)"
+"Table II, p. 320",Metadolerites (D) W+,W+,,1,,248,20,,,,,,,,,,,n.a.,* reverse polarity
+"Table II, p. 320",Metadolerites (D) W-,W-,AR,2,,282,-43,,,,,,,,,,,n.a.,
+"Table II, p. 321",Metaalaskites (A) SE,SE,AN,1,,158,19,,,,,,,,,,,n.a.,Table I A2 SE gives 150/19
+"Table II, p. 321",Metaalaskites (A) W+,W+,,1,,248,21,,,,,,,,,,,n.a.,"* reverse polarity; Table I A2 W+ gives 68/-21*"
+"Table II, p. 321",Marbles (M) SE,SE,AN,1,,149,19,,,,,,,,,,,n.a.,
+"Table II, p. 321",Marbles (M) W+,W+,,1,,279,36,,,,,,,,,,,n.a.,
+"Table II, p. 321",Marbles (M) W-,W-,AR,1,,272,-43,,,,,,,,,,,n.a.,"** mixed polarity; Table I M1 W- gives 292/-17**"
+"Abstract, p. 307",SE component,SE,AN,,,135,30,,,,,-16,-32,,,,,n.a.,age est. ~950 Ma (text: 950-750 Ma most probable)
+"Abstract, p. 307",W- component,W-,AR,,,258,-34,,,,,21,8,,,,,n.a.,age est. ~1075 Ma
+"Abstract, p. 307",W+ component,W+,,,,249,45,,,,,-6,44,,,,,n.a.,age est. ~1300 Ma; pole antipode of Table II
+"Abstract, p. 307",NE component,NE,,,,37,41,,,,,53,37,,,,,n.a.,~750 Ma

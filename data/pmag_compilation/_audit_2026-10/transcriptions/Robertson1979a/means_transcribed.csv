@@ -1,0 +1,3 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 2, p. 1854",(3) All sites (site 3 excluded),normal,AN,9,sites,124,48,31,9,,,-2,156,8,12,,,,"R 8.74; pole printed (E, S) 156, 02; considered a best estimate"
+"Table 2, p. 1854",(7) Average 3 + Hargraves & Roy (1974) sites,normal,AN,14,sites,126,51,34,7,,,-3,153,7,10,,,,"R 13.62; pole printed (E, S) 153, 03; = St-Urbain pole StU of Roy & Robertson (1979)"

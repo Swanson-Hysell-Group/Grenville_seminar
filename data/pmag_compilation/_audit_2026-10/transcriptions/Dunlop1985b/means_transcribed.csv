@@ -1,0 +1,4 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 705","Mean, unit weight to sites",A,AR,8,sites (42 samples per text p.705),326,-46,132,4.8,,,12,133,4,6,,,"n.a. (intrusive, no correction)",palaeopole printed 133E 12N
+"Table 1, p. 705",Palmer & Carmichael (1973) palaeopole,A,AR,10,sites,,,,,,,17,137,,,8.4 (printed as a95),,"n.a. (intrusive, no correction)",quoted from earlier study
+"Table 2, p. 706","A, unit weight to specimen normals (great-circle intersection)",A,AR,60,specimen normals,322,-49,29 (k'),,,,8,136,<5.5,<8,,,"n.a. (intrusive, no correction)","beta95=4.5, gamma95=6.0"

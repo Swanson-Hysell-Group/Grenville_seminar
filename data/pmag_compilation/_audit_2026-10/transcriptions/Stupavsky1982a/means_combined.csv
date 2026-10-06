@@ -1,0 +1,38 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 2, p. 824","Component A estimate ""A: AFs VR""",A,AN,3,demagnetizing steps [3],112,69,,12,,,,,,,,,unknown (in situ; gneissic anorthosite),NOT a site: vector removed between 3 selected AF steps of pilot specimens; no k printed
+"Table 2, p. 824","Component A estimate ""A: Ts VR""",A,AN,3,demagnetizing steps [3],112,73,,11,,,,,,,,,unknown,NOT a site: vector removed between 3 thermal steps
+"Table 2, p. 824","Component A estimate ""A: NRM C""",A,AN,8,sites,110,66,,14,,,,,,,,,unknown,core-level screening of NRM; 8 sites
+"Table 2, p. 824","Component A estimate ""A: NRM P""",A,AN,93,specimens (93),103,77,,3,,,,,,,,,unknown,population-level screening of NRM (93 of 199 specimen directions)
+"Table 2, p. 824","Component B estimate ""B: NRM P""",B,B,35,specimens (35),122,38,,3,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: AFs EP""",B,B,16,specimens (16),122,30,,13,,,,,,,,,unknown,EP = end-point of pilot specimens
+"Table 2, p. 824","Component B estimate ""B: Ts VR""",B,B,3,demagnetizing steps [3],127,31,,5,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: AF C""",B,B,14,sites,125,34,,7,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: AF S""",B,B,14,sites,124,31,,7,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: AF P""",B,B,63,specimens (63),125,27,,2,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: T=550C C""",B,B,11,sites,126,25,,5,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: T=550C S""",B,B,14,sites,128,24,,4,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: T=550C P""",B,B,90,specimens (90),126,25,,2,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: T=650C C""",B,B,10,sites,129,26,,8,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: T=650C S""",B,B,11,sites,129,24,,6,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: T=650C P""",B,B,57,specimens (57),126,24,,3,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: T=670C C""",B,B,2,sites,123,20,,36,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: T=670C S""",B,B,5,sites,127,19,,10,,,,,,,,,unknown,
+"Table 2, p. 824","Component B estimate ""B: T=670C P""",B,B,28,specimens (28),125,19,,5,,,,,,,,,unknown,
+"Table 2, p. 824","Component C estimate ""C: Ts EP""",C,C,12,specimens (12),154,8,,18,,,,,,,,,unknown,
+"Table 2, p. 824","Component C estimate ""C: T=650C P""",C,C,16,specimens (16),158,26,,7,,,,,,,,,unknown,
+"Table 2, p. 824","Component C estimate ""C: T=670C P""",C,C,8,specimens (8),157,25,,6,,,,,,,,,unknown,
+"Table 2, p. 824","Component D estimate ""D: T=670C P""",D,D,6,specimens (6),93,22,,7,,,,,,,,,unknown,
+"Table 1, p. 823",AF (1) NRM-5 mT vector removed,A,,16,pilot specimens,116,72,,32,,,,,,,,,unknown,
+"Table 1, p. 823",AF (2) 5-10 mT,A,,16,pilot specimens,116,60,,25,,,,,,,,,unknown,
+"Table 1, p. 823",AF (3) 20-40 mT,A,,16,pilot specimens,102,74,,26,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (4) NRM-100C,A,,15,pilot specimens,134,70,,28,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (5) 100-200C,A,,15,pilot specimens,90,73,,30,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (6) 200-300C,A,,15,pilot specimens,109,73,,30,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (7) 500-550C,B,,13,pilot specimens,129,32,,23,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (8) 550-600C,B,,11,pilot specimens,124,29,,25,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (9) 600-650C,B,,11,pilot specimens,129,33,,30,,,,,,,,,unknown,
+"Table 1, p. 823",Mean removed A component,A,AN,6,steps [6],112,71,,6,,,26,-45,9,10,,,unknown,"'most reliable estimate' of A (p.826); Table 3 pole 45W 26N (true VGP, recomputes 26.6N 315.3E); age 975 Ma"
+"Table 1, p. 823",Mean removed B component,B,,3,steps [3],127,31,,5,,,,,,,,,unknown,
+"Table 3, p. 826",B (Thermal 550C P Table 2),B,,,,,,,,,,-13,-26,1,2,,,unknown,age 1725 Ma
+"Table 3, p. 826",C (Thermal 650C P Table 2),C,,,,,,,,,,-27,-57,4,7,,,unknown,age 1800 Ma
+"Table 3, p. 826",D (Thermal 670C P Table 2),D,,,,,,,,,,6,-1,4,7,,,unknown,age 1250 Ma

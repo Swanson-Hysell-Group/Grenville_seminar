@@ -1,0 +1,4 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 345",B (Bryson) average,,,4,sites (incl. B04(M) of Murthy 1971),286,-64,99,9,,,,,,,,,,
+"Table 1, p. 345",G (Gatineau) average,,,8,sites,260,-67,65,7,,,,,,,,,,
+"Table 1, p. 345",Ottawa intrusions total,,,13,sites,271,-66,61,5,,,-32,155,,,8,25,,"pole printed 32S, 155E; N 13, K 25, A95 08; normal sites inverted for the mean"

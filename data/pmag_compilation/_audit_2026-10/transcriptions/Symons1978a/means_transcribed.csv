@@ -1,0 +1,7 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 958; abstract p. 956; text p. 959",Umfraville gabbro screened AF mean,stable primary TRM,AN,10,sites,100.4,44.6,35.9,8.2,44.94,-77.79,-11,166,7,10,,,n.a. (intrusive),"96 specimens; mean site location 77.79W 44.94N (Table 1 footnote); pole 166E 11S is the antipode of the true VGP (recomputed true VGP 11.4N 346.4E)"
+"Text p. 957",AF step component analysis (all),stable,,17,specimens (1 per site),101.0,54.9,7.4,12.5,,,,,,,,,n.a.,least-squares modelling of 17 AF step specimens
+"Text p. 957",AF step component analysis (screened),stable,,12,specimens,100.9,47.2,21.2,8.8,,,,,,,,,n.a.,five directions outside 2x circular SD excluded
+"Text p. 958",All AF specimens unscreened site means,stable,,16,sites,95.8,51.2,8.4,13.1,,,,,,,,,n.a.,N not explicitly printed (16 sites with data)
+"Text p. 958",Thermal high-T mean,stable,,,specimens,85.2,47.1,10.1,12.2,,,,,,,,,n.a.,specimens from 17 sites at 400-650C; antiparallel reversed
+"Text p. 959",Thermal high-T mean (screened),stable,,,specimens,93.3,44.1,21.1,9.2,,,,,,,,,n.a.,three directions outside 2x circular SD excluded

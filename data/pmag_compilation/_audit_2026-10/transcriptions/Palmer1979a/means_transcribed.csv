@@ -1,0 +1,5 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 2, p. 463","Mean (overall, * and † entries, A inverted)",A+B combined,AN+AR,23,samples/sites,109,+44,15,8.1,,,-6,161,7,10,,,"n.a. (intrusive, no correction)",R=21.530; printed pole 161E 6S (Pacific convention)
+"Table 2, p. 463",Mean of site poles,A+B combined,AN+AR,23,samples/sites,,,,,,,-7.5,160,,,9.0,,"n.a. (intrusive, no correction)",printed 160E 7 1/2 S; this is the abstract pole
+"Table 2, p. 463",A component,A,AR,3,"samples/sites (†U3, †U5, †SP17a)",279,-58,318,6.9,,,-21,157,,,,,"n.a. (intrusive, no correction)",R=2.994
+"Table 2, p. 463",B component,B,AN,20,samples/sites,110,+42,14,9.0,,,-5,161,,,,,"n.a. (intrusive, no correction)",R=18.652; pole printed 161E 5S (antipode of true VGP mean)

@@ -1,0 +1,7 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 253","Anorthosite, reversed component, all sites",reversed,AN,20,sites,109,45,32,5.9,,,-8,168,4.7,7.4,,,,printed mean (south) pole 192W 8S (=168E 8S); all cores n=117: 107/46 k28 a95 2.5
+"Table 1, p. 253","Reversed polarity (anorthosite + monzonite), all sites",reversed,AN,21,sites,110,45,32,5.7,,,-8,167,4.6,7.3,,,,printed mean (south) pole 193W 8S (=167E 8S); all cores n=123: 108/46 k28 a95 2.5
+"Table 2, p. 254","Anorthosite, normal component, all sites",normal,AR,2,sites,276,-64,310,14.2,,,-29,163,18.0,22.6,,,,printed mean (north) pole 197W 29S; all cores n=11: 275/-64 k72 a95 5.4
+"Table 2, p. 254","Granite, normal component, all sites",normal,AR,5,sites,305,-66,26,15.2,,,-20,144,20.4,25.0,,,,printed mean (north) pole 216W 20S; all cores n=27: 302/-68 k27 a95 5.4
+"Table 2, p. 254","Monzonite, normal component, all sites",normal,AR,4,sites,312,-67,257,5.7,,,-16,139,7.9,9.5,,,,printed mean (north) pole 221W 16S; all cores n=19: 312/-67 k55 a95 4.6
+"Table 2, p. 254","Normal polarity (all rock types), all sites",normal,AR,12,sites,301,-66,46.2,6.5,,,-19,147,8.5,10.5,,,,printed mean (north) pole 213W 19S (=147E 19S); all cores n=64: 299/-66 k32.9 a95 3.1

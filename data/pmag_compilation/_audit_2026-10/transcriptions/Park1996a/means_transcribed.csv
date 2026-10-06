@@ -1,0 +1,9 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 749","Component A (unit weight I, S)",A,AR,9,intrusions = sites,331,-49,36,9,54.5,-58.5,-2,326,8,11,,,,R 8.78; paleolatitude 30N; mean site locality 54.5N 058.5W (Table 1 notes)
+"Table 1, p. 749",Component B (unit weight I),B,AN,11,intrusions,120,54,54,6,54.5,-58.5,13,348,6,9,,,,R 10.82; paleolatitude 35N; mean site locality 54.5N 058.5W (Table 1 notes)
+"Table 1, p. 749",Component B (unit weight S),B,AN,13,sites,121,54,54,6,54.5,-58.5,13,348,6,8,,,,R 12.78; paleolatitude 35N; mean site locality 54.5N 058.5W (Table 1 notes)
+"Table 1, p. 749",Component C (unit weight I),C,AN,33,intrusions,133,26,39,4,54.5,-58.5,-11,348,2,4,,,,R 32.17; paleolatitude 13N; mean site locality 54.5N 058.5W (Table 1 notes)
+"Table 1, p. 749",Component C (unit weight S),C,AN,36,sites,133,26,40,4,54.5,-58.5,-11,348,2,4,,,,R 35.13; paleolatitude 14N; mean site locality 54.5N 058.5W (Table 1 notes)
+"Table 1, p. 749",Component D (unit weight I),D,,30,intrusions,351,80,65,3,54.5,-58.5,73,292,6,6,,,,R 29.55; paleolatitude 71N; mean site locality 54.5N 058.5W (Table 1 notes); D and E are recent overprints (paper)
+"Table 1, p. 749",Component D (unit weight S),D,,35,sites,352,80,69,3,54.5,-58.5,73,293,5,6,,,,R 34.51; paleolatitude 71N; mean site locality 54.5N 058.5W (Table 1 notes); D and E are recent overprints (paper)
+"Table 1, p. 749","Component E (unit weight I, S)",E,,5,intrusions = sites,352,-76,30,14,54.5,-58.5,29,305,24,26,,,,R 4.87; paleolatitude 64N; mean site locality 54.5N 058.5W (Table 1 notes); D and E are recent overprints (paper)

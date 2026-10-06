@@ -1,0 +1,3 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 763","Northwest trend dikes, average of directions",,AN,6,sites,103,50,112,6,,,-12,163,,,,,,"pole printed 12S, 163E"
+"Table 1, p. 763","Northwest trend dikes, average of poles",,AN,6,sites,,,,,,,-12,162,,,7,85,,"pole printed 12S, 162E; K 85; A95 07; K-Ar whole rock 751+-75, biotite 817+-70 m.y. (site 5) = minimum age ~800 m.y."

@@ -1,0 +1,8 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 4 p. 8010; text p. 8003, 8011; Table 5 p. 8011",MT0 Mattawa tonalitic gneiss Grenvillian NRM (uncorrected),Grenvillian host NRM,AR,32,samples,311,-54,41,4.0,,,-2,140,,,,,in situ,"R=31.242; VGP MT0 2S 140E (true VGP); age 1009+-2 Ma hornblende 40Ar/39Ar"
+"Table 4 p. 8010; text p. 8003, 8011; Table 5 p. 8011",MT1 Mattawa tonalitic gneiss Grenvillian NRM (anisotropy-corrected),Grenvillian host NRM,AR,30,samples,312,-72,66,3.2,,,-21,127,,,,,in situ,"R=29.563; VGP MT1 21S 127E (true VGP, recomputed 20.7S 127.5E at 46.25N 78.18W); dp/dm not printed in Table 5; single site (secular variation not averaged, p.8011)"
+"Table 2, p. 8003",Mattawa dike all samples (GD0),dike TRM 570 Ma,,24,samples,298,72,19.1,7,,,51,-131,10,12,,,in situ,"R=22.80; VGP 51N 131W (abstract); not Grenvillian"
+"Table 2, p. 8003",Mattawa dike chilled margin (GD1),dike TRM 570 Ma,,4,samples,293,57,56.0,12,,,41,-153,13,18,,,in situ,R=3.946
+"Table 3 footnote, p. 8009",Overprint TRM+pTRM averages (uncorrected),dike thermal overprint,,27,samples,302,31,9.6,9.5,,,,,,,,,in situ,R=24.28 (A component excluded)
+"Table 3 footnote, p. 8009",Overprint TRM+pTRM averages (anisotropy-corrected),dike thermal overprint,,26,samples,300,53,10.6,9.2,,,,,,,,,in situ,R=23.63
+"Text p. 8010-8011",Anomalous A overprint (corrected),A,,17,samples,122,72,4.0,20,,,-24,132,,,,,in situ,"pole 24S 132E printed (antipode of true VGP 24N 312E); ~400 Ma?"

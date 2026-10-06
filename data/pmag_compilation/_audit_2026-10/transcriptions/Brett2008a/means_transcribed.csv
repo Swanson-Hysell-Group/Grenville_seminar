@@ -1,0 +1,9 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 2, p. 133",Frontenac,AN,AN,7,sites,81,69,27,12,,,-39,154,17,20,,,unknown,R=6.78. N = sites. No reference coordinate printed. Pole printed in southern hemisphere = antipode of VGP of listed normal (+inc) direction.
+"Table 2, p. 133",Frontenac,AR,AR,1,sites,297,-56,,,,,-9,150,,,,,unknown,R=. N = sites. No reference coordinate printed.
+"Table 2, p. 133",Frontenac,B,B,3,sites,321,-6,22,27,,,32,151,13,27,,,unknown,R=2.91. N = sites. No reference coordinate printed.
+"Table 2, p. 133",Sharbot Lake,AN,AN,6,sites,86,57,25,14,,,-28,167,14,20,,,unknown,R=5.80. N = sites. No reference coordinate printed. Pole printed in southern hemisphere = antipode of VGP of listed normal (+inc) direction.
+"Table 2, p. 133",Sharbot Lake,AR,AR,3,sites,283,-49,46,18,,,-12,163,16,24,,,unknown,R=2.96. N = sites. No reference coordinate printed.
+"Table 2, p. 133",Mazinaw,AN,AN,4,sites,74,51,21,20,,,-32,178,18,27,,,unknown,R=3.86. N = sites. No reference coordinate printed. Pole printed in southern hemisphere = antipode of VGP of listed normal (+inc) direction.
+"Table 2, p. 133",Mazinaw,AR,AR,4,sites,283,-49,26,18,,,-13,158,18,25,,,unknown,R=3.88(5). N = sites. No reference coordinate printed.
+"Table 2, p. 133",Elsevir,ElR,"NaN (sites 38,54)",2,sites,322,-35,204,18,,,17,140,12,20,,,unknown,R=1.99(5). N = sites. No reference coordinate printed.

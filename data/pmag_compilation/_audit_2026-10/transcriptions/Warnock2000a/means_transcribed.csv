@@ -1,0 +1,7 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1 p.19,441; Fig. 8","HbA mean, LTD suite (this study)",HbA,AR,17,samples,281.7,-71.1,55.3,4.8,44.8875,-78.3875,,,,,,,geographic (no correction),k (kappa=55.3) printed only in Fig. 8
+"Table 1 p.19,441","HbA mean, Buchan & Dunlop 1976 suite (reproduced)",HbA,,42,samples,265.2,-74.1,,4.3,,,,,,,,,,reproduces Buchan & Dunlop 1976 Table 1 sample mean
+"Table 1 p.19,441; text p.19,442; abstract",HbA combined mean (B&D 1976 + this study),HbA,AR,59,samples,277.5,-71.8,,3.8,,,-32.6,141.9,,,,,,"age 1015±15 Ma (Ar/Ar–U/Pb cooling curve, Table 10/Fig.15); no dp/dm/A95 given"
+"Table 2 p.19,442","HbB mean, this study",HbB,B,6,samples,315.7,21.1,,20.7,,,,,,,,,,
+"Table 2 p.19,442","HbB mean, Buchan & Dunlop 1976 suite (reproduced)",HbB,,11,samples,299.9,10.3,,15.7,,,,,,,,,,
+"Table 2 p.19,442; text; abstract; Table 11",HbB combined mean,HbB,B,17,samples,305.7,14.1,,12.3,,,29.9,169.9,,,,,,age ~600 Ma (Table 11; thermal event recorded by K-feldspar)

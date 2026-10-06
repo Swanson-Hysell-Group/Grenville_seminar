@@ -1,0 +1,7 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 1413","A mean, unit wt. to sites (N>=3)",A,AN,10,sites (45 samples),83.6,58.6,133,4.1,,,-30.4,165.3,3.6,6.8,,,n.a.,pole printed 165.3°E 30.4°S; reversed polarity per paper
+"Table 1, p. 1413","A1 mean (low TB <350C sites), unit wt. to sites",A1,AN,5,sites,90.9,61.7,593,3.1,,,-28.0,158.4,2.6,5.8,,,n.a.,"Table 1 pole 28.0°S; ABSTRACT prints 38.0°S (text p.1411 also 28.0°S, so abstract value is a misprint)"
+"Table 1, p. 1413","A2 mean (high TB >525C sites), unit wt. to sites",A2,AN,5,sites,77.6,55.2,151,6.2,,,-32.3,172.0,5.8,9.2,,,n.a.,
+Text p. 1412,A direction from great-circle intersection (15 AF swings),A,,15,specimens (great circles),73.2,55.3,,,,,,,,,,,,no statistics given
+"Table 2, p. 1416","Mean B, unit wt. to samples",B,B,18,samples (8 sites),307.6,-13.3,9.6,11.7,,,20.3,159.3,8.0,11.3,,,n.a.,preferred B result per text/abstract; thermal demag
+"Table 2, p. 1416","Mean B, unit wt. to sites",B,B,8,sites,307.7,-11.9,28.2,10.6,,,20.9,159.7,7.3,10.1,,,n.a.,

@@ -1,0 +1,15 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 823",AF (1) NRM-5 mT vector removed,A,,16,pilot specimens,116,72,,32,,,,,,,,,unknown,
+"Table 1, p. 823",AF (2) 5-10 mT,A,,16,pilot specimens,116,60,,25,,,,,,,,,unknown,
+"Table 1, p. 823",AF (3) 20-40 mT,A,,16,pilot specimens,102,74,,26,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (4) NRM-100C,A,,15,pilot specimens,134,70,,28,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (5) 100-200C,A,,15,pilot specimens,90,73,,30,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (6) 200-300C,A,,15,pilot specimens,109,73,,30,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (7) 500-550C,B,,13,pilot specimens,129,32,,23,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (8) 550-600C,B,,11,pilot specimens,124,29,,25,,,,,,,,,unknown,
+"Table 1, p. 823",Thermal (9) 600-650C,B,,11,pilot specimens,129,33,,30,,,,,,,,,unknown,
+"Table 1, p. 823",Mean removed A component,A,AN,6,steps [6],112,71,,6,,,26,-45,9,10,,,unknown,"'most reliable estimate' of A (p.826); Table 3 pole 45W 26N (true VGP, recomputes 26.6N 315.3E); age 975 Ma"
+"Table 1, p. 823",Mean removed B component,B,,3,steps [3],127,31,,5,,,,,,,,,unknown,
+"Table 3, p. 826",B (Thermal 550C P Table 2),B,,,,,,,,,,-13,-26,1,2,,,unknown,age 1725 Ma
+"Table 3, p. 826",C (Thermal 650C P Table 2),C,,,,,,,,,,-27,-57,4,7,,,unknown,age 1800 Ma
+"Table 3, p. 826",D (Thermal 670C P Table 2),D,,,,,,,,,,6,-1,4,7,,,unknown,age 1250 Ma

@@ -1,0 +1,44 @@
+table_ref,site,unit,comp_paper,comp_compiled,dec,inc,k,a95,n,n_type,N_total,r,site_lat,site_lon,vgp_lat,vgp_lon,dp,dm,tilt,polarity_note,notes
+"Table I, p. 320",G1,Cheneaux metagabbro,SE,AN,146,21,29.1,14.4,5,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=13
+"Table I, p. 320",G2,Cheneaux metagabbro,SE,AN,127,28,14.5,20.8,5,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=12
+"Table I, p. 320",G3,Cheneaux metagabbro,SE,AN,150,28,25.6,18.5,4,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=12
+"Table I, p. 320",G4,Cheneaux metagabbro,SE,AN,120,34,23.1,19.5,4,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=12
+"Table I, p. 320",G5,Cheneaux metagabbro,SE,AN,134,25,11.6,23.5,5,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=13
+"Table I, p. 320",G6,Cheneaux metagabbro,SE,AN,120,29,14.6,20.7,5,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=13
+"Table I, p. 320",G7,Cheneaux metagabbro,SE,AN,137,25,5.4,37.9,5,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=14
+"Table I, p. 320",G8,Cheneaux metagabbro,SE,AN,155,34,8.6,33.3,4,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=9
+"Table I, p. 320",G9,Cheneaux metagabbro,SE,AN,124,43,7.8,39.7,3,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=11
+"Table I, p. 320",D8,metadolerite dyke,SE,AN?,146,-23,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=4; negative inclination although listed as SE; not in compiled file
+"Table I, p. 320",A2,metaalaskite dyke,SE,AN,150,19,12.7,,2,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),paper: SE = reverse (R),n specimens=6; a95 printed as dash
+"Table I, p. 320",M1,Portage-du-Fort marble (country rock),SE,AN,149,19,37.4,20.4,3,samples,,,,,,,,,n.a.,paper: SE = reverse (R),n specimens=5
+"Table I, p. 320",G1,Cheneaux metagabbro,NE,,44,38,16.2,,2,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=4
+"Table I, p. 320",G2,Cheneaux metagabbro,NE,,28,57,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=1
+"Table I, p. 320",G3,Cheneaux metagabbro,NE,,80,28,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=3
+"Table I, p. 320",G4,Cheneaux metagabbro,NE,,79,54,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=1
+"Table I, p. 320",G5,Cheneaux metagabbro,NE,,47,35,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=1
+"Table I, p. 320",G6,Cheneaux metagabbro,NE,,49,48,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=2
+"Table I, p. 320",G9,Cheneaux metagabbro,NE,,24,42,82.4,27.7,2,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=4
+"Table I, p. 320",A2,metaalaskite dyke,NE,,56,05,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=1
+"Table I, p. 320",M1,Portage-du-Fort marble (country rock),NE,,75,26,,,4,samples,,,,,,,,,n.a.,,n specimens=7
+"Table I, p. 320",G1,Cheneaux metagabbro,W+,,248,52,4,,2,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=3
+"Table I, p. 320",G2,Cheneaux metagabbro,W+,,71,-13,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),* reverse polarity,n specimens=1
+"Table I, p. 320",G4,Cheneaux metagabbro,W+,,235,10,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=1
+"Table I, p. 320",G5,Cheneaux metagabbro,W+,,249,22,7,,2,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),** mixed polarity,n specimens=2
+"Table I, p. 320",G6,Cheneaux metagabbro,W+,,259,64,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=2
+"Table I, p. 320",G8,Cheneaux metagabbro,W+,,289,73,6,,2,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),** mixed polarity,n specimens=6
+"Table I, p. 320",D8,metadolerite dyke,W+,,68,-20,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),* reverse polarity,n specimens=1
+"Table I, p. 320",A2,metaalaskite dyke,W+,,68,-21,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),* reverse polarity,n specimens=2
+"Table I, p. 320",M1,Portage-du-Fort marble (country rock),W+,,279,36,2,,2,samples,,,,,,,,,n.a.,,n specimens=3
+"Table I (cont.), p. 321",G1,Cheneaux metagabbro,W-,AR,247,-38,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=2
+"Table I (cont.), p. 321",G3,Cheneaux metagabbro,W-,AR,278,-23,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=2
+"Table I (cont.), p. 321",G4,Cheneaux metagabbro,W-,AR,240,-34,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=3
+"Table I (cont.), p. 321",G8,Cheneaux metagabbro,W-,AR,266,-36,272,15.2,2,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),** mixed polarity,n specimens=4
+"Table I (cont.), p. 321",D8,metadolerite dyke,W-,AR,282,-43,,,2,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=3
+"Table I (cont.), p. 321",M1,Portage-du-Fort marble (country rock),W-,AR,292,-17,,,1,samples,,,,,,,,,n.a.,** mixed polarity,n specimens=3; Table II gives marble W- as 272/-43** (inconsistent)
+"Table I (cont.), p. 321",(extra line below M1),W- mean for lithologies G+D+M,W-,,70,27,53.2,17.1,3,,,,,,,,,,n.a.,* reverse polarity; + = mean for lithologies G D and M,"printed as 3(6) 70 27* 53.2 17.1+; meaning ambiguous (not consistent with Table II W- mean 258/-34)"
+"Table I (cont.), p. 321",G2,Cheneaux metagabbro,NW***,,337,36,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),*** uncommon component,n specimens=1
+"Table I (cont.), p. 321",G3,Cheneaux metagabbro,NW***,,340,10,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),*** uncommon component,n specimens=3
+"Table I (cont.), p. 321",G6,Cheneaux metagabbro,NW***,,350,18,19.3,,2,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),*** uncommon component,n specimens=2
+"Table I (cont.), p. 321",D8,metadolerite dyke,NW***,,328,04,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),*** uncommon component,n specimens=1
+"Table I (cont.), p. 321",D4,metadolerite dyke,SSW,,214,30,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=3
+"Table I (cont.), p. 321",D8,metadolerite dyke,SSW,,219,39,,,1,samples,,,,,,,,,n.a. (intrusive; no correction mentioned),,n specimens=1

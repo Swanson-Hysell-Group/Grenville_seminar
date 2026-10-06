@@ -1,0 +1,34 @@
+table_ref,site,unit,comp_paper,comp_compiled,dec,inc,k,a95,n,n_type,N_total,r,site_lat,site_lon,vgp_lat,vgp_lon,dp,dm,tilt,polarity_note,notes
+"Table 1, p. 253",1,Lac St-Jean anorthosite,reversed,AN,103,24,130,8.1,4,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 25 mT
+"Table 1, p. 253",2,Lac St-Jean anorthosite,reversed,AN,105,42,156,4.9,7,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 25 mT
+"Table 1, p. 253",5,Lac St-Jean anorthosite,reversed,AN,106,42,119,5.5,7,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 35 mT
+"Table 1, p. 253",6,Lac St-Jean anorthosite,reversed,AN,92,48,90,5.9,8,samples (cores),8,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 50 mT
+"Table 1, p. 253",7,Lac St-Jean anorthosite,reversed,AN,82,55,161,4.8,7,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 35 mT
+"Table 1, p. 253",8,Lac St-Jean anorthosite,reversed,AN,111,32,213,5.3,5,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)","AF cleaning 40 mT; mixed-polarity site, reversed direction isolated in some samples"
+"Table 1, p. 253",10,Lac St-Jean anorthosite,reversed,AN,111,33,234,8.1,3,samples (cores),8,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)","AF cleaning 25 mT; mixed-polarity site, reversed direction isolated in some samples"
+"Table 1, p. 253",11,Lac St-Jean anorthosite,reversed,AN,125,41,99,12.4,3,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)","AF cleaning 15 mT; mixed-polarity site, reversed direction isolated in some samples"
+"Table 1, p. 253",25,Lac St-Jean anorthosite,reversed,AN,101,70,28,14.8,5,samples (cores),6,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 25 mT
+"Table 1, p. 253",31,Lac St-Jean anorthosite,reversed,AN,110,35,51,8.6,7,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 20 mT
+"Table 1, p. 253",32,Lac St-Jean anorthosite,reversed,AN,114,40,62,9.8,5,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 25 mT
+"Table 1, p. 253",33,Lac St-Jean anorthosite,reversed,AN,110,43,157,9.9,3,samples (cores),8,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 25 mT
+"Table 1, p. 253",34,Lac St-Jean anorthosite,reversed,AN,109,60,41,10.6,6,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 60 mT
+"Table 1, p. 253",35,Lac St-Jean anorthosite,reversed,AN,111,41,151,4.9,7,samples (cores),8,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 60 mT
+"Table 1, p. 253",37,Lac St-Jean anorthosite,reversed,AN,118,47,193,5.5,5,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 40 mT
+"Table 1, p. 253",38,Lac St-Jean anorthosite,reversed,AN,90,58,108,4.7,10,samples (cores),10,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 60 mT
+"Table 1, p. 253",39,Lac St-Jean anorthosite,reversed,AN,105,42,257,3.2,9,samples (cores),9,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 60 mT
+"Table 1, p. 253",40,Lac St-Jean anorthosite,reversed,AN,112,48,97,6.2,7,samples (cores),8,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 60 mT
+"Table 1, p. 253",49,Lac St-Jean anorthosite,reversed,AN,107,36,134,6.6,5,samples (cores),5,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 30 mT
+"Table 1, p. 253",53,Lac St-Jean anorthosite,reversed,AN,154,45,234,6.0,4,samples (cores),4,,,,,,,,"n.a. (intrusive, no correction)","paper: reversed (E dec, +inc; south paleopole)",AF cleaning 30 mT
+"Table 1, p. 253",22,monzonite,reversed,AN,122,57,57,9.0,6,samples (cores),6,,,,-11,150,,,"n.a. (intrusive, no correction)",paper: reversed,"AF 25 mT; printed virtual (south) pole 210W 11S (= 150E 11S, as printed)"
+"Table 2, p. 254",9,Lac St-Jean anorthosite,normal,AR,281,-66,255,4.8,5,samples (cores),6,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 60 mT
+"Table 2, p. 254",12,Lac St-Jean anorthosite,normal,AR,271,-61,48,9.8,6,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 60 mT
+"Table 2, p. 254",3,granite,normal,AR,321,-63,48,11.1,5,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 50 mT
+"Table 2, p. 254",4,granite,normal,AR,284,-73,86,7.3,6,samples (cores),6,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 50 mT
+"Table 2, p. 254",14,granite,normal,AR,318,-44,78,10.5,4,samples (cores),6,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 60 mT
+"Table 2, p. 254",15,granite,normal,AR,312,-76,116,6.2,6,samples (cores),6,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 50 mT
+"Table 2, p. 254",17,granite,normal,AR,268,-68,323,3.7,6,samples (cores),6,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 50 mT
+"Table 2, p. 254",26,monzonite,normal,AR,305,-66,40,19.7,3,samples (cores),8,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 40 mT
+"Table 2, p. 254",29,monzonite,normal,AR,325,-66,105,12.1,3,samples (cores),6,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 40 mT
+"Table 2, p. 254",42,monzonite,normal,AR,298,-68,133,5.8,6,samples (cores),6,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 25 mT
+"Table 2, p. 254",45,monzonite,normal,AR,320,-67,36,10.2,7,samples (cores),7,,,,,,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 25 mT
+"Table 2, p. 254",36,diabase dike,normal,AR,295,-55,69,7.3,7,samples (cores),8,,,,-12,158,,,"n.a. (intrusive, no correction)","paper: normal (NW dec, -inc; north paleopole)",AF cleaning 50 mT; printed virtual (north) pole 202W 12S = 158E 12S

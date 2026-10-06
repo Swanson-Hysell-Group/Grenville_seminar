@@ -1,0 +1,10 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 3, p. 218",WW by sites (oxide segregations),WW (hematite),AR,5,sites,285,-56,96,8,,,-16,156,8,11,,,n.a. (in situ),"two-tier: within-site k 36, between-site k 176, error 6; pole = true VGP (recomputed ~16.3S 154E at 45.66N 79.87W); no anisotropy correction"
+"Table 3, p. 218",WX (samples unit weight),WX (m.c.f.),,17,samples,122,+45,3,26,,,-01,152,21,33,,,n.a.,"pole printed 01S 152E = antipode of true VGP (~0.7S 329.5E)"
+"Table 3, p. 218",WY by sites (massive anorthosite),WY (magnetite),AN,8,sites,104,+43,45,8,,,-08,165,6,10,,,n.a.,"two-tier within-site k 18, between ns, error 7; pole printed 08S 165E = antipode of true VGP (~8.6N 343E)"
+"Table 3, p. 218",WY anisotropy-corrected,WY,AN,8,sites,104,+36,,,,,-05,168,,,,,n.a.,inclination decreased 7 deg for anisotropy
+"Table 3, p. 218",WZ by sites (diorite),WZ (hematite),AR,4,sites,292,-65,223,6,,,-21,144,8,10,,,n.a.,"two-tier within-site k 89, between ns, error 5; true VGP"
+"Table 3, p. 218",WZ anisotropy-corrected,WZ,AR,4,sites,292,-67,,,,,-22,146,,,,,n.a.,inclination increased 2 deg
+"Table 2, p. 218",WW oxide segregation specimens 1000 Oe (anisotropy expt),WW,,5,specimens,280.4,-63.4,21,17.1,,,,,,,,,n.a.,"Table 2 rows (nrm 352.4/+87.1 k4 a46.7; irm(285,-56) 284.3/-51.4 k86 a8.3; 400Oe 283.2/-54.8 k64 a9.7; 1000Oe 284.0/-55.0 k45 a11.5)"
+"Table 2, p. 218",WY anorthosite specimens 800 Oe (anisotropy expt),WY,,12,specimens,109.5,+43.9,32,7.8,,,,,,,,,n.a.,"nrm 112.8/+43.3 k25 a8.8; irm(104,+43) 104.0/+47.0 k472 a2.0; 400Oe 104.7/+50.2 k506 a1.9; 800Oe 104.9/+50.5 k571 a1.8"
+"Table 2, p. 218",WZ diorite specimens 400 Oe (anisotropy expt),WZ,,5,specimens,293.6,-65.2,65,9.5,,,,,,,,,n.a.,"irm(292,-65) 288.2/-62.9 k261 a4.7; 400Oe 289.2/-63.2 k256 a4.8; 600Oe 288.5/-62.9 k297 a4.4"

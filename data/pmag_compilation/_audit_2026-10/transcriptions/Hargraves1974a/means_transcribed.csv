@@ -1,0 +1,2 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 856; text p. 857","Locality mean, sites 84, 85, 93, 94, 95 (>20 km from structure centre)",primary RM,AN,5,sites,127.9,57.0,48.8,11.1,,,7,328,12,16,,,,"pole printed 7N 32W; error printed as alpha_lat 12, alpha_long 16 (text: dp 12, dm 16)"

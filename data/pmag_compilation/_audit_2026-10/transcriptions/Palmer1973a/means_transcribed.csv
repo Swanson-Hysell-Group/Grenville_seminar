@@ -1,0 +1,4 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 1179",Wilberforce pyroxenite mean pole,cleaned NRM,AR,,"sites: N not printed (implied 4; block-sample group treated as one site, p.1178)",,,,,45.117,-78.25,-14.5,148.0,,,6.0 (printed as alpha95 of pole),,"n.a. (intrusive, no correction)",no mean direction printed; abstract 148E 14.5S
+"Table 2, p. 1182",Tudor Gabbro mean pole,cleaned NRM,AR,10,sites,,,,,,,17.1,137.0,,,8.4 (printed as alpha95),,"n.a. (intrusive, no correction)",no mean direction printed; abstract 137E 17N (French abstract erroneously 17S)
+"Table 3, p. 1182","Northern Grenville (River Valley + Fall Lake, sites 4-7) mean pole",cleaned NRM,AN,4,sites,,,,,,,8.2,161.3,,,6.3 (printed as alpha95),,"n.a. (intrusive, no correction)",printed pole is antipode of true VGP mean; abstract 161E 8N

@@ -1,0 +1,2 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 1290",Accepted sites (21),reversed,AN,21,sites,138,31,161,,,,10.2,162.5,,,2,226,,"site-mean angular SD 6.1, deltaR 1.4; mean pole from 21 site poles 162.5E 10.2N, k=226, alpha95=2, deltaR=5.4 (as printed)"

@@ -1,0 +1,8 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 530","Mean, R samples",A (R),AR,16,sites (38 samples),298.0,-53.5,35,6.5,,,,,,,,,"n.a. (intrusive, no correction)",
+"Table 1, p. 530","Mean, N samples",A (N),AN,10,sites (11 samples),101.0,61.5,36,7.5,,,,,,,,,"n.a. (intrusive, no correction)",
+"Table 1, p. 530","Mean, unit weight to sites (CoA)",A,AN+AR,18,sites,294.0,-55.5,42,5.5,,,-10.5,151,6,8,,,"n.a. (intrusive, no correction)",Palaeopole printed 151E 10.5S (true pole of NW-up direction)
+"Table 2, p. 532","A, unit weight to specimen normals (great-circle intersection)",A,AN+AR,70,specimen normals,285,-59,48 (k'),,,,-17.5,154,<10,<13,,,"n.a. (intrusive, no correction)","beta95=2.5, gamma95=8.5 (oval semi-axes) instead of a95"
+"Table 2, p. 532","C, unit weight to specimen normals (great-circle intersection)",C,C,78,specimen normals,172,16,13 (k'),,,,37,112,<5,<9.5,,,"n.a. (intrusive, no correction)","beta95=6.0, gamma95=9.5"
+"Table 3, p. 533","Mean, unit weight to sites (CoB)",B,B,11,sites (33 samples),305.5,-1.5,24,9.5,,,24,165.5,5,9.5,,,"n.a. (intrusive, no correction)",
+"Table 4, p. 539","Mean, unit weight to sites (CoC)",C,C,12,sites (23 samples),180.0,27.5,18,10.5,,,31,102,6.5,12,,,"n.a. (intrusive, no correction)","sites 13,15 excluded"

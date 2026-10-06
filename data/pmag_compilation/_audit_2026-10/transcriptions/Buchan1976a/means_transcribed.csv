@@ -1,0 +1,16 @@
+table_ref,name,comp_paper,comp_compiled,N,n_type,dec,inc,k,a95,lat,lon,pole_lat,pole_lon,dp,dm,A95,K,tilt,notes
+"Table 1, p. 2957","A mean, unit weight to sites",A,AR,15,sites,272.2,-72.5,37.6,6.3,,,,,,,,,n.a.,text p.2957 and abstract agree
+"Table 1, p. 2957",A paleopole (site-weighted),A,AR,,,,,,,,,-35.6,142.5,,,,,,printed 142.5°E 35.6°S; no dp/dm/A95
+"Table 1, p. 2957","A mean, unit weight to samples",A,AR,42,samples,265.2,-74.1,27.4,4.3,,,,,,,,,n.a.,
+"Table 1, p. 2957",A paleopole (sample-weighted),A,AR,,,,,,,,,-40.0,141.7,,,,,,printed 141.7°E 40.0°S
+"Table 2, p. 2959","B mean, unit weight to samples",B,B,11,samples (8 sites),299.9,10.3,9.4,15.7,,,,,,,,,n.a.,
+"Table 2, p. 2959",B paleopole,B,B,,,,,,,,,24.5,172.3,,,,,,Table 2 & abstract 172.3°E 24.5°N; text p.2958 says 172.2°E
+"Table 2, p. 2959","PEF or reversed A mean, unit weight to samples",PEF or reversed A,,22,samples,72.1,78.4,8.2,11.4,,,,,,,,,n.a.,vector-subtracted component; not in compiled file
+"Table 3, p. 2960","C mean, unit weight to samples",C,AN (mislabelled),10,samples (6 sites),105.4,34.7,53.5,6.6,,,,,,,,,n.a.,
+"Table 3, p. 2960",C paleopole,C,AN (mislabelled),,,,,,,,,-3.0,167.4,,,,,,printed 167.4°E 3.0°S; text p.2959 calls it the antipole; reversed polarity
+"Table 4, p. 2964",A or Hb1 (present paper),A,AR,15,sites,,,38,6,,,-36,142.5,,,,,,rounded repeat; polarity N
+"Table 4, p. 2964",B or Hb3 (present paper),B,B,11,samples,,,9,16,,,24.5,172.3,,,,,,polarity N
+"Table 4, p. 2964",C or Hb2 (present paper),C,AN (mislabelled),10,samples,,,54,7,,,-3,167,,,,,,polarity R
+"Table 4, p. 2964","Haliburton intrusions, Buchan and Dunlop [1973] A",A,,10,sites,,,64,6,,,-39,144,,,,,,"earlier result, polarity N"
+"Table 4, p. 2964","Haliburton intrusions, Buchan and Dunlop [1973] B",B,,13,specimens,,,8,16,,,21,171,,,,,,values in parentheses in table; polarity N
+"Table 4, p. 2964","Haliburton intrusions, Buchan [1973] C",C,,5,samples,,,55,10.5,,,-1.5,165,,,,,,values in parentheses; polarity R; Buchan [1973] = thesis

@@ -1,0 +1,2432 @@
+[
+ {
+  "file": "Brown2012a.csv",
+  "row": 23,
+  "site": "ADH34",
+  "column": "k",
+  "old": "46",
+  "new": "49",
+  "evidence": "Brown & McEnroe 2012 Table 1 p.65, site ADH34 k=49"
+ },
+ {
+  "file": "Brown2012a.csv",
+  "row": 25,
+  "site": "ADH8",
+  "column": "vgp_lat",
+  "old": "-3.4",
+  "new": "-33.4",
+  "evidence": "Brown & McEnroe 2012 Table 1 p.65, site ADH8 VGP lat -33.4"
+ },
+ {
+  "file": "Buchan1973a.csv",
+  "row": 3,
+  "site": "D5",
+  "column": "dir_k",
+  "old": "27",
+  "new": "28",
+  "evidence": "Buchan & Dunlop 1973 Table 1 p.29, site D5 k=28"
+ },
+ {
+  "file": "Buchan1976a.csv",
+  "row": 4,
+  "site": "B9",
+  "column": "dir_inc",
+  "old": "-75.1",
+  "new": "-75",
+  "evidence": "Buchan & Dunlop 1976 Table 1 p.2957, site B9 I=-75.0"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 0,
+  "site": "1",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "4",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 5,
+  "site": "8",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "5",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 6,
+  "site": "10",
+  "column": "dir_n_samples",
+  "old": "8",
+  "new": "3",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 7,
+  "site": "11",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "3",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 8,
+  "site": "25",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "5",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 10,
+  "site": "32",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "5",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 11,
+  "site": "33",
+  "column": "dir_n_samples",
+  "old": "8",
+  "new": "3",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 12,
+  "site": "34",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "6",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 13,
+  "site": "35",
+  "column": "dir_n_samples",
+  "old": "8",
+  "new": "7",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 14,
+  "site": "37",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "5",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 17,
+  "site": "40",
+  "column": "dir_n_samples",
+  "old": "8",
+  "new": "7",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 21,
+  "site": "9",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "5",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 22,
+  "site": "12",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "6",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 23,
+  "site": "3",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "5",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 25,
+  "site": "14",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "4",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 28,
+  "site": "26",
+  "column": "dir_n_samples",
+  "old": "8",
+  "new": "3",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 29,
+  "site": "29",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "3",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Buchan1983a.csv",
+  "row": 32,
+  "site": "36",
+  "column": "dir_n_samples",
+  "old": "8",
+  "new": "7",
+  "evidence": "Buchan et al. 1983 Tables 1-2 pp.253-254: column n (stable cores used; sums to \"All cores\") instead of N (cores collected)"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 13,
+  "site": "W2",
+  "column": "dir_inc",
+  "old": "-54.5",
+  "new": "-54",
+  "evidence": "Du Bois 1962 GSC Bull. 71 Table XXI p.67, W2 I=-54.0"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 0,
+  "site": "M12",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 0,
+  "site": "M12",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 1,
+  "site": "M13",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 1,
+  "site": "M13",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 2,
+  "site": "M23",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 2,
+  "site": "M23",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 3,
+  "site": "M24",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 3,
+  "site": "M24",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 4,
+  "site": "M29",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 4,
+  "site": "M29",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 5,
+  "site": "M30",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 5,
+  "site": "M30",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 6,
+  "site": "M40",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 6,
+  "site": "M40",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 7,
+  "site": "M41",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 7,
+  "site": "M41",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 8,
+  "site": "M42",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 8,
+  "site": "M42",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 9,
+  "site": "M43",
+  "column": "lat",
+  "old": "45.78",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 9,
+  "site": "M43",
+  "column": "lon",
+  "old": "-78.92",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 10,
+  "site": "Ban1",
+  "column": "lat",
+  "old": "45.08",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 10,
+  "site": "Ban1",
+  "column": "lon",
+  "old": "-78.25",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 11,
+  "site": "Ban2",
+  "column": "lat",
+  "old": "45.08",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 11,
+  "site": "Ban2",
+  "column": "lon",
+  "old": "-78.25",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 12,
+  "site": "W1",
+  "column": "lat",
+  "old": "45.68",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 12,
+  "site": "W1",
+  "column": "lon",
+  "old": "-75.88",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 13,
+  "site": "W2",
+  "column": "lat",
+  "old": "45.68",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 13,
+  "site": "W2",
+  "column": "lon",
+  "old": "-75.88",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 14,
+  "site": "W3",
+  "column": "lat",
+  "old": "45.68",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 14,
+  "site": "W3",
+  "column": "lon",
+  "old": "-75.88",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 15,
+  "site": "W4",
+  "column": "lat",
+  "old": "45.68",
+  "new": "45",
+  "evidence": "Du Bois 1962 Table XXI title: directions \"corrected to 45N and 78.5W\" -> VGPs must be computed at the reference point, not the locality"
+ },
+ {
+  "file": "Dubois1962a.csv",
+  "row": 15,
+  "site": "W4",
+  "column": "lon",
+  "old": "-75.88",
+  "new": "-78.5",
+  "evidence": "idem"
+ },
+ {
+  "file": "Dunlop1985a.csv",
+  "row": 9,
+  "site": "13",
+  "column": "dir_dec",
+  "old": "297",
+  "new": "297.5",
+  "evidence": "Dunlop & Stirling 1985 Table 1 p.530, site 13 A D=297.5"
+ },
+ {
+  "file": "Dunlop1985a.csv",
+  "row": 19,
+  "site": "2",
+  "column": "dir_alpha95",
+  "old": "8",
+  "new": "8.5",
+  "evidence": "Dunlop & Stirling 1985 Table 3 p.533, site 2 B a95=8.5"
+ },
+ {
+  "file": "Fahrig1972a.csv",
+  "row": 0,
+  "site": "1",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "5",
+  "evidence": "Fahrig & Larochelle 1972 Table 1 p.1290: n (samples used after rejecting theta>20 cores) instead of N (collected)"
+ },
+ {
+  "file": "Fahrig1972a.csv",
+  "row": 1,
+  "site": "2",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "5",
+  "evidence": "Fahrig & Larochelle 1972 Table 1 p.1290: n (samples used after rejecting theta>20 cores) instead of N (collected)"
+ },
+ {
+  "file": "Fahrig1972a.csv",
+  "row": 2,
+  "site": "3",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "6",
+  "evidence": "Fahrig & Larochelle 1972 Table 1 p.1290: n (samples used after rejecting theta>20 cores) instead of N (collected)"
+ },
+ {
+  "file": "Fahrig1972a.csv",
+  "row": 8,
+  "site": "13",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "4",
+  "evidence": "Fahrig & Larochelle 1972 Table 1 p.1290: n (samples used after rejecting theta>20 cores) instead of N (collected)"
+ },
+ {
+  "file": "Fahrig1972a.csv",
+  "row": 9,
+  "site": "29",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "4",
+  "evidence": "Fahrig & Larochelle 1972 Table 1 p.1290: n (samples used after rejecting theta>20 cores) instead of N (collected)"
+ },
+ {
+  "file": "Fahrig1972a.csv",
+  "row": 11,
+  "site": "32",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "5",
+  "evidence": "Fahrig & Larochelle 1972 Table 1 p.1290: n (samples used after rejecting theta>20 cores) instead of N (collected)"
+ },
+ {
+  "file": "Fahrig1972a.csv",
+  "row": 13,
+  "site": "58",
+  "column": "dir_n_samples",
+  "old": "5",
+  "new": "3",
+  "evidence": "Fahrig & Larochelle 1972 Table 1 p.1290: n (samples used after rejecting theta>20 cores) instead of N (collected)"
+ },
+ {
+  "file": "Fahrig1972a.csv",
+  "row": 15,
+  "site": "60",
+  "column": "dir_n_samples",
+  "old": "5",
+  "new": "4",
+  "evidence": "Fahrig & Larochelle 1972 Table 1 p.1290: n (samples used after rejecting theta>20 cores) instead of N (collected)"
+ },
+ {
+  "file": "Fahrig1972a.csv",
+  "row": 17,
+  "site": "62",
+  "column": "dir_n_samples",
+  "old": "5",
+  "new": "4",
+  "evidence": "Fahrig & Larochelle 1972 Table 1 p.1290: n (samples used after rejecting theta>20 cores) instead of N (collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 0,
+  "site": "1",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "6",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 1,
+  "site": "5",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "3",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 2,
+  "site": "6",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "5",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 3,
+  "site": "10",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "5",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 4,
+  "site": "16",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "3",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 7,
+  "site": "19",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "5",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 9,
+  "site": "26",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "6",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 10,
+  "site": "33",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "5",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 11,
+  "site": "1",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "2",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 14,
+  "site": "8",
+  "column": "dir_n_samples",
+  "old": "5",
+  "new": "2",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 15,
+  "site": "10",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "2",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 18,
+  "site": "13",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "3",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 19,
+  "site": "23",
+  "column": "dir_n_samples",
+  "old": "8",
+  "new": "6",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 20,
+  "site": "25N",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "4",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 21,
+  "site": "26",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "3",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 22,
+  "site": "27",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "4",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 24,
+  "site": "35",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "4",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 26,
+  "site": "41",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "5",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 29,
+  "site": "44",
+  "column": "dir_n_samples",
+  "old": "6",
+  "new": "5",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 34,
+  "site": "49",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "3",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 35,
+  "site": "50",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "5",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 36,
+  "site": "51",
+  "column": "dir_n_samples",
+  "old": "7",
+  "new": "4",
+  "evidence": "Fahrig et al. 1974 Tables 1-2 pp.22, 28: n (samples used) instead of N (cores collected)"
+ },
+ {
+  "file": "Fahrig1974a.csv",
+  "row": 10,
+  "site": "33",
+  "column": "dir_comp_name",
+  "old": "AN",
+  "new": "AR",
+  "evidence": "Fahrig et al. 1974 Table 1 p.22 lists site 33 (302/+37) in the Mealy Mountains NORTHWEST component (= compiled AR), not the east component"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 17,
+  "site": "Lac St. Jean Anorthosite reversed direction",
+  "column": "vgp_lon",
+  "old": "33",
+  "new": "327",
+  "evidence": "Buchan et al. 1983 Table 2: north pole 213W 19S -> antipode 19N 33W = 327E (W longitude had been copied as E); Halls 2015 DR3 gives 19.3N 326.1E"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 18,
+  "site": "Lac St. Jean Anorthosite normal direction",
+  "column": "vgp_lon",
+  "old": "13",
+  "new": "347",
+  "evidence": "Buchan et al. 1983 Table 1: south pole 193W 8S -> antipode 8N 13W = 347E (W longitude had been copied as E)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 15,
+  "site": "Morin Anorthosite reversed direction",
+  "column": "dp",
+  "old": "9.9",
+  "new": "9.2",
+  "evidence": "Irving et al. 1974 Table 4 p.5486: Model A pole error (dm, dp) = 9.9, 9.2 (dp/dm were swapped)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 15,
+  "site": "Morin Anorthosite reversed direction",
+  "column": "dm",
+  "old": "9.2",
+  "new": "9.9",
+  "evidence": "idem"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 16,
+  "site": "Morin Anorthosite normal direction",
+  "column": "dir_k",
+  "old": "44",
+  "new": "17",
+  "evidence": "Irving et al. 1974 Table 4 p.5486: M2 precision k=17"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 16,
+  "site": "Morin Anorthosite normal direction",
+  "column": "dp",
+  "old": "12",
+  "new": "9",
+  "evidence": "Irving et al. 1974 Table 4: M2 error (dm, dp) = 12, 9 (dp/dm were swapped)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 16,
+  "site": "Morin Anorthosite normal direction",
+  "column": "dm",
+  "old": "9",
+  "new": "12",
+  "evidence": "idem"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "B",
+  "old": "8",
+  "new": "6",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "dir_dec",
+  "old": "123.4",
+  "new": "121.8",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "dir_inc",
+  "old": "32.5",
+  "new": "30.3",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "dir_k",
+  "old": "79",
+  "new": "141",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "dir_alpha95",
+  "old": "6.3",
+  "new": "5.1",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "vgp_lat",
+  "old": "-9",
+  "new": "-9.2",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "vgp_lon",
+  "old": "334.6",
+  "new": "336.7",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "dp",
+  "old": "4.2",
+  "new": "3",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "dm",
+  "old": "7.3",
+  "new": "5.6",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Halls2015a_compilation.csv",
+  "row": 28,
+  "site": "Bustard Islands Gneiss",
+  "column": "pole_alpha95",
+  "old": "6.3",
+  "new": "5.1",
+  "evidence": "Halls 2015 Geology GSA DR2015352 Table DR1 p.3, row BI (the compiled row had copied the adjacent SL = Seal Lake row)"
+ },
+ {
+  "file": "Hargraves1974a.csv",
+  "row": 2,
+  "site": "90",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "",
+  "evidence": "Hargraves & Roy 1974 p.857: site 90 direction anomalous (shocked, 12-14 km from centre), not a reversed Grenville A"
+ },
+ {
+  "file": "Hargraves1974a.csv",
+  "row": 3,
+  "site": "91",
+  "column": "dir_comp_name",
+  "old": "AN",
+  "new": "",
+  "evidence": "Hargraves & Roy 1974 Table 1/p.858: site 91 = impactite (K-Ar ~350 m.y.), not Grenville A"
+ },
+ {
+  "file": "Hargraves1974a.csv",
+  "row": 13,
+  "site": "101",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "AN",
+  "evidence": "Hargraves & Roy 1974 p.857: site 101 (112/-10) = primary (SE) vector tectonically rotated, like sites 96, 97"
+ },
+ {
+  "file": "Hyodo1993a.csv",
+  "row": "all",
+  "site": "",
+  "column": "dir_comp_name",
+  "old": "(column absent)",
+  "new": "AR",
+  "evidence": "Hyodo & Dunlop 1993 Table 4 p.8010 / Fig. 12: Grenvillian host NRM (NW-up, plotted as reversed); column was missing"
+ },
+ {
+  "file": "Irving1972a.csv",
+  "row": 8,
+  "site": "G18(R)",
+  "column": "dir_comp_name",
+  "old": "AN",
+  "new": "AR",
+  "evidence": "Irving et al. 1972 Table 1 p.345: G18 (R) 267/-74 is reversed (NW-up)"
+ },
+ {
+  "file": "Irving1974b.csv",
+  "row": 19,
+  "site": "57",
+  "column": "dir_dec",
+  "old": "198",
+  "new": "298",
+  "evidence": "Irving et al. 1974 Table 3 p.5486: site 57 = 298, -70 (4.71)"
+ },
+ {
+  "file": "Irving1974b.csv",
+  "row": 19,
+  "site": "57",
+  "column": "dir_inc",
+  "old": "0",
+  "new": "-70",
+  "evidence": "idem"
+ },
+ {
+  "file": "Murthy1976a.csv",
+  "row": 1,
+  "site": "2",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "",
+  "evidence": "Murthy & Rao 1976 p.78: Steel Mountain site 2 (143/-14.5) \"entirely anomalous\", excluded; not a reversed A direction"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 0,
+  "site": "WP_block",
+  "column": "dir_k",
+  "old": "58",
+  "new": "56.8",
+  "evidence": "Palmer & Carmichael 1973 Table 1 p.1179: block samples K=56.8"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 5,
+  "site": "TG2",
+  "column": "dir_dec",
+  "old": "333.7",
+  "new": "337.7",
+  "evidence": "Palmer & Carmichael 1973 Table 2 p.1182: Tudor site 2 D=337.7 (printed VGP 24.0N 125.8E recomputes from 337.7)"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 4,
+  "site": "TG1",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 4,
+  "site": "TG1",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 5,
+  "site": "TG2",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 5,
+  "site": "TG2",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 6,
+  "site": "TG3",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 6,
+  "site": "TG3",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 7,
+  "site": "TG4",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 7,
+  "site": "TG4",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 8,
+  "site": "TG5",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 8,
+  "site": "TG5",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 9,
+  "site": "TG6",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 9,
+  "site": "TG6",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 10,
+  "site": "TG8",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 10,
+  "site": "TG8",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 11,
+  "site": "TG10",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 11,
+  "site": "TG10",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 12,
+  "site": "TG11",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 12,
+  "site": "TG11",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 13,
+  "site": "TG12",
+  "column": "lat",
+  "old": "46.33",
+  "new": "44.75",
+  "evidence": "Tudor gabbro: 46.33,-80.40 is the St. Charles anorthosite locality (p.1180-1181); Tudor coordinate 44 45 N 77 41 W from Halls 2015 GSA DR2 (TG); Palmer & Carmichael Fig. 3 grid 44 43-45 N, 77 35-40 W"
+ },
+ {
+  "file": "Palmer1973a.csv",
+  "row": 13,
+  "site": "TG12",
+  "column": "lon",
+  "old": "-80.40",
+  "new": "-77.683",
+  "evidence": "idem"
+ },
+ {
+  "file": "Palmer1979a.csv",
+  "row": 20,
+  "site": "SP12",
+  "column": "vgp_lon",
+  "old": "161",
+  "new": "-161",
+  "evidence": "Palmer et al. 1979 Table 2 p.463: SP12 VGP printed 161W 36S"
+ },
+ {
+  "file": "Park1972a.csv",
+  "row": 8,
+  "site": "12",
+  "column": "vgp_lon",
+  "old": "163",
+  "new": "197",
+  "evidence": "Park & Irving 1972 Table 1 p.763: dike 12 pole printed 20N, 163W (= 197E)"
+ },
+ {
+  "file": "Park1972a.csv",
+  "row": 8,
+  "site": "12",
+  "column": "dir_comp_name",
+  "old": "AN",
+  "new": "",
+  "evidence": "dike 12 has a westerly direction (283/+30) with K-Ar 407-411 m.y.; not Grenville A normal"
+ },
+ {
+  "file": "Park1996a.csv",
+  "row": 0,
+  "site": "1",
+  "column": "lon",
+  "old": "-59",
+  "new": "-58.5",
+  "evidence": "Park & Gower 1996 Table 1 notes: mean site locality 54.5N, 058.5W"
+ },
+ {
+  "file": "Park1996a.csv",
+  "row": 1,
+  "site": "2",
+  "column": "lon",
+  "old": "-59",
+  "new": "-58.5",
+  "evidence": "Park & Gower 1996 Table 1 notes: mean site locality 54.5N, 058.5W"
+ },
+ {
+  "file": "Park1996a.csv",
+  "row": 2,
+  "site": "3",
+  "column": "lon",
+  "old": "-59",
+  "new": "-58.5",
+  "evidence": "Park & Gower 1996 Table 1 notes: mean site locality 54.5N, 058.5W"
+ },
+ {
+  "file": "Park1996a.csv",
+  "row": 3,
+  "site": "4",
+  "column": "lon",
+  "old": "-59",
+  "new": "-58.5",
+  "evidence": "Park & Gower 1996 Table 1 notes: mean site locality 54.5N, 058.5W"
+ },
+ {
+  "file": "Park1996a.csv",
+  "row": 4,
+  "site": "5",
+  "column": "lon",
+  "old": "-59",
+  "new": "-58.5",
+  "evidence": "Park & Gower 1996 Table 1 notes: mean site locality 54.5N, 058.5W"
+ },
+ {
+  "file": "Park1996a.csv",
+  "row": 5,
+  "site": "6",
+  "column": "lon",
+  "old": "-59",
+  "new": "-58.5",
+  "evidence": "Park & Gower 1996 Table 1 notes: mean site locality 54.5N, 058.5W"
+ },
+ {
+  "file": "Park1996a.csv",
+  "row": 6,
+  "site": "7",
+  "column": "lon",
+  "old": "-59",
+  "new": "-58.5",
+  "evidence": "Park & Gower 1996 Table 1 notes: mean site locality 54.5N, 058.5W"
+ },
+ {
+  "file": "Park1996a.csv",
+  "row": 7,
+  "site": "8",
+  "column": "lon",
+  "old": "-59",
+  "new": "-58.5",
+  "evidence": "Park & Gower 1996 Table 1 notes: mean site locality 54.5N, 058.5W"
+ },
+ {
+  "file": "Park1996a.csv",
+  "row": 7,
+  "site": "8",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "",
+  "evidence": "Park & Gower 1996 p.749: component E is a recent overprint (reverse of PEF), not Grenville A"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 0,
+  "site": "G1",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 0,
+  "site": "G1",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 1,
+  "site": "G2",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 1,
+  "site": "G2",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 2,
+  "site": "G3",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 2,
+  "site": "G3",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 3,
+  "site": "G4",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 3,
+  "site": "G4",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 4,
+  "site": "G5",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 4,
+  "site": "G5",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 5,
+  "site": "G6",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 5,
+  "site": "G6",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 6,
+  "site": "G7",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 6,
+  "site": "G7",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 7,
+  "site": "G8",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 7,
+  "site": "G8",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 8,
+  "site": "G9",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 8,
+  "site": "G9",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 9,
+  "site": "A2",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 9,
+  "site": "A2",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 10,
+  "site": "M1",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 10,
+  "site": "M1",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 11,
+  "site": "G1",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 11,
+  "site": "G1",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 12,
+  "site": "G3",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 12,
+  "site": "G3",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 13,
+  "site": "G4",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 13,
+  "site": "G4",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 14,
+  "site": "G8",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 14,
+  "site": "G8",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 15,
+  "site": "D8",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 15,
+  "site": "D8",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 16,
+  "site": "M1",
+  "column": "lat",
+  "old": "46.58",
+  "new": "45.583",
+  "evidence": "Seguin & Brun 1984 print no coordinates (Fig. 2 graticule misprinted); Cheneaux Falls 45 35 N 76 40 W (Irving et al. 1972 p.345); Table II poles recompute at ~45.6N 76.7W"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 16,
+  "site": "M1",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-76.667",
+  "evidence": "idem"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 11,
+  "site": "G1",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "W-",
+  "evidence": "Seguin & Brun 1984 Table I: these rows are component W- (WSW, intermediate up, ~1075 Ma), not the reverse of SE (= compiled AN)"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 12,
+  "site": "G3",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "W-",
+  "evidence": "Seguin & Brun 1984 Table I: these rows are component W- (WSW, intermediate up, ~1075 Ma), not the reverse of SE (= compiled AN)"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 13,
+  "site": "G4",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "W-",
+  "evidence": "Seguin & Brun 1984 Table I: these rows are component W- (WSW, intermediate up, ~1075 Ma), not the reverse of SE (= compiled AN)"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 14,
+  "site": "G8",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "W-",
+  "evidence": "Seguin & Brun 1984 Table I: these rows are component W- (WSW, intermediate up, ~1075 Ma), not the reverse of SE (= compiled AN)"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 15,
+  "site": "D8",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "W-",
+  "evidence": "Seguin & Brun 1984 Table I: these rows are component W- (WSW, intermediate up, ~1075 Ma), not the reverse of SE (= compiled AN)"
+ },
+ {
+  "file": "Seguin1984a.csv",
+  "row": 16,
+  "site": "M1",
+  "column": "dir_comp_name",
+  "old": "AR",
+  "new": "W-",
+  "evidence": "Seguin & Brun 1984 Table I: these rows are component W- (WSW, intermediate up, ~1075 Ma), not the reverse of SE (= compiled AN)"
+ },
+ {
+  "file": "Stupavsky1982a.csv",
+  "row": 0,
+  "site": "1",
+  "column": "dir_k",
+  "old": "136",
+  "new": "",
+  "evidence": "Stupavsky & Symons 1982 (CJES 19:819-828) Table 2 p.824 prints no k; compiled k = (140/a95)^2 (invalid)"
+ },
+ {
+  "file": "Stupavsky1982a.csv",
+  "row": 1,
+  "site": "2",
+  "column": "dir_k",
+  "old": "162",
+  "new": "",
+  "evidence": "Stupavsky & Symons 1982 (CJES 19:819-828) Table 2 p.824 prints no k; compiled k = (140/a95)^2 (invalid)"
+ },
+ {
+  "file": "Stupavsky1982a.csv",
+  "row": 2,
+  "site": "3",
+  "column": "dir_k",
+  "old": "100",
+  "new": "",
+  "evidence": "Stupavsky & Symons 1982 (CJES 19:819-828) Table 2 p.824 prints no k; compiled k = (140/a95)^2 (invalid)"
+ },
+ {
+  "file": "Stupavsky1982a.csv",
+  "row": 3,
+  "site": "4",
+  "column": "dir_k",
+  "old": "2178",
+  "new": "",
+  "evidence": "Stupavsky & Symons 1982 (CJES 19:819-828) Table 2 p.824 prints no k; compiled k = (140/a95)^2 (invalid)"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 0,
+  "site": "1",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 0,
+  "site": "1",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 1,
+  "site": "2",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 1,
+  "site": "2",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 2,
+  "site": "3",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 2,
+  "site": "3",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 3,
+  "site": "4",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 3,
+  "site": "4",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 4,
+  "site": "5",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 4,
+  "site": "5",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 5,
+  "site": "6",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 5,
+  "site": "6",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 6,
+  "site": "8",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 6,
+  "site": "8",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 7,
+  "site": "9",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 7,
+  "site": "9",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 8,
+  "site": "10",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 8,
+  "site": "10",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 9,
+  "site": "11",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 9,
+  "site": "11",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 10,
+  "site": "12",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 10,
+  "site": "12",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 11,
+  "site": "13",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 11,
+  "site": "13",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 12,
+  "site": "14",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 12,
+  "site": "14",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 13,
+  "site": "15",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 13,
+  "site": "15",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 14,
+  "site": "16",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 14,
+  "site": "16",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 15,
+  "site": "17",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.94",
+  "evidence": "Symons 1978 Table 1 footnote p.958: mean site location 44.94N, 77.79W"
+ },
+ {
+  "file": "Symons1978a.csv",
+  "row": 15,
+  "site": "17",
+  "column": "lon",
+  "old": "-77.75",
+  "new": "-77.79",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 0,
+  "site": "1010201L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 0,
+  "site": "1010201L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 1,
+  "site": "1020201L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 1,
+  "site": "1020201L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 2,
+  "site": "1030201L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 2,
+  "site": "1030201L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 3,
+  "site": "2030101L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 3,
+  "site": "2030101L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 4,
+  "site": "96A02L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 4,
+  "site": "96A02L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 5,
+  "site": "96A03L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 5,
+  "site": "96A03L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 6,
+  "site": "96A05L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 6,
+  "site": "96A05L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 7,
+  "site": "96A06L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 7,
+  "site": "96A06L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 8,
+  "site": "96A07L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 8,
+  "site": "96A07L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 9,
+  "site": "96A08L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 9,
+  "site": "96A08L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 10,
+  "site": "96C05L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 10,
+  "site": "96C05L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 11,
+  "site": "96C06L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 11,
+  "site": "96C06L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 12,
+  "site": "96C07L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 12,
+  "site": "96C07L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 13,
+  "site": "96C08L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 13,
+  "site": "96C08L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 14,
+  "site": "96C09L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 14,
+  "site": "96C09L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 15,
+  "site": "96C10L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 15,
+  "site": "96C10L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 16,
+  "site": "96D02L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 16,
+  "site": "96D02L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 17,
+  "site": "01010101S",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 17,
+  "site": "01010101S",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 18,
+  "site": "01020201L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 18,
+  "site": "01020201L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 19,
+  "site": "01030101S",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 19,
+  "site": "01030101S",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 20,
+  "site": "96C02S",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 20,
+  "site": "96C02S",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 21,
+  "site": "96C05L",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 21,
+  "site": "96C05L",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 22,
+  "site": "96C10S",
+  "column": "lat",
+  "old": "44.95",
+  "new": "44.8875",
+  "evidence": "Warnock et al. 2000 p.19,436: locality 44 53'15\"N, 78 23'15\"W"
+ },
+ {
+  "file": "Warnock2000a.csv",
+  "row": 22,
+  "site": "96C10S",
+  "column": "lon",
+  "old": "-78.44",
+  "new": "-78.3875",
+  "evidence": "idem"
+ }
+]
