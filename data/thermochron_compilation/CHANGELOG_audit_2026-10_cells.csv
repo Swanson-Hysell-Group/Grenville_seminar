@@ -1,0 +1,1062 @@
+file,row_index_0based,Sample_No,column,old,new,kind,evidence
+Berger1981a.csv,0,G14-4,Age,995.8,995,TRANSCRIPTION,"Table 1 p.798 prints ""995.±8""; text p.797 ""995 ± 8 (1σ) Ma"""
+Berger1981a.csv,4,B2-149,Age,965,965.8,TRANSCRIPTION,Table 1 p.798 total-gas 965.8 ± 7.6
+Berger1981a.csv,9,G4-22,Age,905,905.6,TRANSCRIPTION,Table 1 p.799 total-gas 905.6 ± 6.1
+Berger1981a.csv,0,G14-4,Error_Plus,8,16,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,0,G14-4,Error_Minus,8,16,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,1,G21-113,Error_Plus,8,16,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,1,G21-113,Error_Minus,8,16,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,2,G16-25,Error_Plus,7,14,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,2,G16-25,Error_Minus,7,14,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,3,B12-415,Error_Plus,9,18,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,3,B12-415,Error_Minus,9,18,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,4,B2-149,Error_Plus,7.6,15.2,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,4,B2-149,Error_Minus,7.6,15.2,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,5,B5-139,Error_Plus,8,16,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,5,B5-139,Error_Minus,8,16,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,6,D1-190,Error_Plus,7,14,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,6,D1-190,Error_Minus,7,14,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,7,B12-415,Error_Plus,7.2,14.4,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,7,B12-415,Error_Minus,7.2,14.4,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,8,B2-149,Error_Plus,7.1,14.2,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,8,B2-149,Error_Minus,7.1,14.2,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,9,G4-22,Error_Plus,6.1,12.2,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,9,G4-22,Error_Minus,6.1,12.2,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,10,G16-25,Error_Plus,6.9,13.8,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,10,G16-25,Error_Minus,6.9,13.8,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,11,B2-149,Error_Plus,6.5,13,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+Berger1981a.csv,11,B2-149,Error_Minus,6.5,13,SIGMA,"Berger & York 1981a Table 1 footnote d p.799: ""All errors in this table are 1σ"""
+study_summary.csv,0,G14-4,Age,995.8,995,PROPAGATED,from Berger1981a.csv row 0
+study_summary.csv,0,G14-4,Error_Plus,8,16,PROPAGATED,from Berger1981a.csv row 0
+study_summary.csv,0,G14-4,Error_Minus,8,16,PROPAGATED,from Berger1981a.csv row 0
+study_summary.csv,0,G14-4,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 0
+study_summary.csv,1,G21-113,Error_Plus,8,16,PROPAGATED,from Berger1981a.csv row 1
+study_summary.csv,1,G21-113,Error_Minus,8,16,PROPAGATED,from Berger1981a.csv row 1
+study_summary.csv,1,G21-113,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 1
+study_summary.csv,2,G16-25,Error_Plus,7,14,PROPAGATED,from Berger1981a.csv row 2
+study_summary.csv,2,G16-25,Error_Minus,7,14,PROPAGATED,from Berger1981a.csv row 2
+study_summary.csv,2,G16-25,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 2
+study_summary.csv,3,B12-415,Error_Plus,9,18,PROPAGATED,from Berger1981a.csv row 3
+study_summary.csv,3,B12-415,Error_Minus,9,18,PROPAGATED,from Berger1981a.csv row 3
+study_summary.csv,3,B12-415,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 3
+study_summary.csv,4,B2-149,Age,965,965.8,PROPAGATED,from Berger1981a.csv row 4
+study_summary.csv,4,B2-149,Error_Plus,7.6,15.2,PROPAGATED,from Berger1981a.csv row 4
+study_summary.csv,4,B2-149,Error_Minus,7.6,15.2,PROPAGATED,from Berger1981a.csv row 4
+study_summary.csv,4,B2-149,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 4
+study_summary.csv,5,B5-139,Error_Plus,8,16,PROPAGATED,from Berger1981a.csv row 5
+study_summary.csv,5,B5-139,Error_Minus,8,16,PROPAGATED,from Berger1981a.csv row 5
+study_summary.csv,5,B5-139,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 5
+study_summary.csv,6,D1-190,Error_Plus,7,14,PROPAGATED,from Berger1981a.csv row 6
+study_summary.csv,6,D1-190,Error_Minus,7,14,PROPAGATED,from Berger1981a.csv row 6
+study_summary.csv,6,D1-190,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 6
+study_summary.csv,7,B12-415,Error_Plus,7.2,14.4,PROPAGATED,from Berger1981a.csv row 7
+study_summary.csv,7,B12-415,Error_Minus,7.2,14.4,PROPAGATED,from Berger1981a.csv row 7
+study_summary.csv,7,B12-415,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 7
+study_summary.csv,8,B2-149,Error_Plus,7.1,14.2,PROPAGATED,from Berger1981a.csv row 8
+study_summary.csv,8,B2-149,Error_Minus,7.1,14.2,PROPAGATED,from Berger1981a.csv row 8
+study_summary.csv,8,B2-149,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 8
+study_summary.csv,9,G4-22,Age,905,905.6,PROPAGATED,from Berger1981a.csv row 9
+study_summary.csv,9,G4-22,Error_Plus,6.1,12.2,PROPAGATED,from Berger1981a.csv row 9
+study_summary.csv,9,G4-22,Error_Minus,6.1,12.2,PROPAGATED,from Berger1981a.csv row 9
+study_summary.csv,9,G4-22,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 9
+study_summary.csv,10,G16-25,Error_Plus,6.9,13.8,PROPAGATED,from Berger1981a.csv row 10
+study_summary.csv,10,G16-25,Error_Minus,6.9,13.8,PROPAGATED,from Berger1981a.csv row 10
+study_summary.csv,10,G16-25,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 10
+Bancroft_ages.csv,0,D1-190,Error_Plus,7,14,PROPAGATED,from Berger1981a.csv row 6
+Bancroft_ages.csv,0,D1-190,Error_Minus,7,14,PROPAGATED,from Berger1981a.csv row 6
+Bancroft_ages.csv,0,D1-190,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 6
+Bancroft_ages.csv,1,B12-415,Error_Plus,7.2,14.4,PROPAGATED,from Berger1981a.csv row 7
+Bancroft_ages.csv,1,B12-415,Error_Minus,7.2,14.4,PROPAGATED,from Berger1981a.csv row 7
+Bancroft_ages.csv,1,B12-415,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 7
+Bancroft_ages.csv,2,B2-149,Error_Plus,7.1,14.2,PROPAGATED,from Berger1981a.csv row 8
+Bancroft_ages.csv,2,B2-149,Error_Minus,7.1,14.2,PROPAGATED,from Berger1981a.csv row 8
+Bancroft_ages.csv,2,B2-149,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 8
+Bancroft_ages.csv,3,G4-22,Age,905,905.6,PROPAGATED,from Berger1981a.csv row 9
+Bancroft_ages.csv,3,G4-22,Error_Plus,6.1,12.2,PROPAGATED,from Berger1981a.csv row 9
+Bancroft_ages.csv,3,G4-22,Error_Minus,6.1,12.2,PROPAGATED,from Berger1981a.csv row 9
+Bancroft_ages.csv,3,G4-22,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 9
+Bancroft_ages.csv,6,G14-4,Age,995.8,995,PROPAGATED,from Berger1981a.csv row 0
+Bancroft_ages.csv,6,G14-4,Error_Plus,8,16,PROPAGATED,from Berger1981a.csv row 0
+Bancroft_ages.csv,6,G14-4,Error_Minus,8,16,PROPAGATED,from Berger1981a.csv row 0
+Bancroft_ages.csv,6,G14-4,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 0
+Bancroft_ages.csv,7,G21-113,Error_Plus,8,16,PROPAGATED,from Berger1981a.csv row 1
+Bancroft_ages.csv,7,G21-113,Error_Minus,8,16,PROPAGATED,from Berger1981a.csv row 1
+Bancroft_ages.csv,7,G21-113,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 1
+Bancroft_ages.csv,8,G16-25,Error_Plus,7,14,PROPAGATED,from Berger1981a.csv row 2
+Bancroft_ages.csv,8,G16-25,Error_Minus,7,14,PROPAGATED,from Berger1981a.csv row 2
+Bancroft_ages.csv,8,G16-25,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 2
+Bancroft_ages.csv,9,B12-415,Error_Plus,9,18,PROPAGATED,from Berger1981a.csv row 3
+Bancroft_ages.csv,9,B12-415,Error_Minus,9,18,PROPAGATED,from Berger1981a.csv row 3
+Bancroft_ages.csv,9,B12-415,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 3
+Bancroft_ages.csv,10,B2-149,Age,965,965.8,PROPAGATED,from Berger1981a.csv row 4
+Bancroft_ages.csv,10,B2-149,Error_Plus,7.6,15.2,PROPAGATED,from Berger1981a.csv row 4
+Bancroft_ages.csv,10,B2-149,Error_Minus,7.6,15.2,PROPAGATED,from Berger1981a.csv row 4
+Bancroft_ages.csv,10,B2-149,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 4
+Bancroft_ages.csv,11,B5-139,Error_Plus,8,16,PROPAGATED,from Berger1981a.csv row 5
+Bancroft_ages.csv,11,B5-139,Error_Minus,8,16,PROPAGATED,from Berger1981a.csv row 5
+Bancroft_ages.csv,11,B5-139,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 5
+Bancroft_ages.csv,21,B2-149,Error_Plus,6.5,13,PROPAGATED,from Berger1981a.csv row 11
+Bancroft_ages.csv,21,B2-149,Error_Minus,6.5,13,PROPAGATED,from Berger1981a.csv row 11
+Bancroft_ages.csv,21,B2-149,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Berger1981a.csv row 11
+Berger1981b.csv,0,TH15-86,Error_Plus,10,20,SIGMA,"Berger & York 1981b Table 1 p.268: ""Errors in this table are 1σ"""
+Berger1981b.csv,0,TH15-86,Error_Minus,10,20,SIGMA,"Berger & York 1981b Table 1 p.268: ""Errors in this table are 1σ"""
+Berger1981b.csv,1,TH2-34,Error_Plus,8.1,16.2,SIGMA,"Berger & York 1981b Table 1 p.268: ""Errors in this table are 1σ"""
+Berger1981b.csv,1,TH2-34,Error_Minus,8.1,16.2,SIGMA,"Berger & York 1981b Table 1 p.268: ""Errors in this table are 1σ"""
+Berger1981b.csv,2,TH15-86,Error_Plus,7.8,15.6,SIGMA,"Berger & York 1981b Table 1 p.268: ""Errors in this table are 1σ"""
+Berger1981b.csv,2,TH15-86,Error_Minus,7.8,15.6,SIGMA,"Berger & York 1981b Table 1 p.268: ""Errors in this table are 1σ"""
+Berger1981b.csv,3,TH15-85,Error_Plus,7.7,15.4,SIGMA,"Berger & York 1981b Table 1 p.268: ""Errors in this table are 1σ"""
+Berger1981b.csv,3,TH15-85,Error_Minus,7.7,15.4,SIGMA,"Berger & York 1981b Table 1 p.268: ""Errors in this table are 1σ"""
+Busch1996a.csv,0,LVT130,References,"Busch, J.P., and van der Pluijm, B.A., 1996, Late orogenic, plastic to brittle extension along the Robertson Lake shear zone: Implications for the style of deep-crustal extension in the Grenville Orogen, Canada: Precambrian Research, v. 77, p. 41– 57. ","Busch, J.P., van der Pljuim, B.A., Hall, C.M. and Essene, E.J., 1996. Listric normal faulting during postorogenic extension revealed by 40Ar/39Ar thermochronology near the Robertson Lake shear zone, Grenville orogen, Canada; Tectonics, v. 15, p. 387-40",METADATA,"LVT130 muscovite is from Busch et al. 1996b Table 1 (LVT130A, 893 ± 1 1σ, before monitor recalculation); Busch & van der Pluijm 1996a reports biotites only"
+Busch1996a.csv,3,RVL118,References,"Busch, J.P., and van der Pluijm, B.A., 1996, Late orogenic, plastic to brittle extension along the Robertson Lake shear zone: Implications for the style of deep-crustal extension in the Grenville Orogen, Canada: Precambrian Research, v. 77, p. 41– 57. ","Busch, J.P., van der Pljuim, B.A., Hall, C.M. and Essene, E.J., 1996. Listric normal faulting during postorogenic extension revealed by 40Ar/39Ar thermochronology near the Robertson Lake shear zone, Grenville orogen, Canada; Tectonics, v. 15, p. 387-40",METADATA,"RVL118 hornblende is from Busch et al. 1996b Table 1 (RVL118A, 1011 ± 2 1σ, before monitor recalculation); Busch & van der Pluijm 1996a reports biotites only"
+study_summary.csv,16,LVT130,References,"Busch, J.P., and van der Pluijm, B.A., 1996, Late orogenic, plastic to brittle extension along the Robertson Lake shear zone: Implications for the style of deep-crustal extension in the Grenville Orogen, Canada: Precambrian Research, v. 77, p. 41– 57. ","Busch, J.P., van der Pljuim, B.A., Hall, C.M. and Essene, E.J., 1996. Listric normal faulting during postorogenic extension revealed by 40Ar/39Ar thermochronology near the Robertson Lake shear zone, Grenville orogen, Canada; Tectonics, v. 15, p. 387-40",PROPAGATED,from Busch1996a.csv row 0
+study_summary.csv,19,RVL118,References,"Busch, J.P., and van der Pluijm, B.A., 1996, Late orogenic, plastic to brittle extension along the Robertson Lake shear zone: Implications for the style of deep-crustal extension in the Grenville Orogen, Canada: Precambrian Research, v. 77, p. 41– 57. ","Busch, J.P., van der Pljuim, B.A., Hall, C.M. and Essene, E.J., 1996. Listric normal faulting during postorogenic extension revealed by 40Ar/39Ar thermochronology near the Robertson Lake shear zone, Grenville orogen, Canada; Tectonics, v. 15, p. 387-40",PROPAGATED,from Busch1996a.csv row 3
+Cosca1995a.csv,0,Ban 34,Error_Plus,3,6,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+Cosca1995a.csv,0,Ban 34,Error_Minus,3,6,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+Cosca1995a.csv,1,Ban 36,Error_Plus,3,6,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+Cosca1995a.csv,1,Ban 36,Error_Minus,3,6,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+Cosca1995a.csv,2,Ban 42,Error_Plus,3,6,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+Cosca1995a.csv,2,Ban 42,Error_Minus,3,6,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+Cosca1995a.csv,3,Ban 39,Error_Plus,2,4,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+Cosca1995a.csv,3,Ban 39,Error_Minus,2,4,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+Cosca1995a.csv,4,Ban 44,Error_Plus,2,4,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+Cosca1995a.csv,4,Ban 44,Error_Minus,2,4,SIGMA,"Cosca et al. 1995 GSA Data Repository 9518 Table A footnote: ""Errors on individual ages are one standard deviation"""
+study_summary.csv,108,Ban 34,Error_Plus,3,6,PROPAGATED,from Cosca1995a.csv row 0
+study_summary.csv,108,Ban 34,Error_Minus,3,6,PROPAGATED,from Cosca1995a.csv row 0
+study_summary.csv,108,Ban 34,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 0
+study_summary.csv,109,Ban 36,Error_Plus,3,6,PROPAGATED,from Cosca1995a.csv row 1
+study_summary.csv,109,Ban 36,Error_Minus,3,6,PROPAGATED,from Cosca1995a.csv row 1
+study_summary.csv,109,Ban 36,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 1
+study_summary.csv,110,Ban 42,Error_Plus,3,6,PROPAGATED,from Cosca1995a.csv row 2
+study_summary.csv,110,Ban 42,Error_Minus,3,6,PROPAGATED,from Cosca1995a.csv row 2
+study_summary.csv,110,Ban 42,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 2
+study_summary.csv,111,Ban 39,Error_Plus,2,4,PROPAGATED,from Cosca1995a.csv row 3
+study_summary.csv,111,Ban 39,Error_Minus,2,4,PROPAGATED,from Cosca1995a.csv row 3
+study_summary.csv,111,Ban 39,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 3
+study_summary.csv,112,Ban 44,Error_Plus,2,4,PROPAGATED,from Cosca1995a.csv row 4
+study_summary.csv,112,Ban 44,Error_Minus,2,4,PROPAGATED,from Cosca1995a.csv row 4
+study_summary.csv,112,Ban 44,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 4
+Bancroft_ages.csv,16,Ban 34,Error_Plus,3,6,PROPAGATED,from Cosca1995a.csv row 0
+Bancroft_ages.csv,16,Ban 34,Error_Minus,3,6,PROPAGATED,from Cosca1995a.csv row 0
+Bancroft_ages.csv,16,Ban 34,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 0
+Bancroft_ages.csv,17,Ban 36,Error_Plus,3,6,PROPAGATED,from Cosca1995a.csv row 1
+Bancroft_ages.csv,17,Ban 36,Error_Minus,3,6,PROPAGATED,from Cosca1995a.csv row 1
+Bancroft_ages.csv,17,Ban 36,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 1
+Bancroft_ages.csv,18,Ban 42,Error_Plus,3,6,PROPAGATED,from Cosca1995a.csv row 2
+Bancroft_ages.csv,18,Ban 42,Error_Minus,3,6,PROPAGATED,from Cosca1995a.csv row 2
+Bancroft_ages.csv,18,Ban 42,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 2
+Bancroft_ages.csv,19,Ban 39,Error_Plus,2,4,PROPAGATED,from Cosca1995a.csv row 3
+Bancroft_ages.csv,19,Ban 39,Error_Minus,2,4,PROPAGATED,from Cosca1995a.csv row 3
+Bancroft_ages.csv,19,Ban 39,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 3
+Bancroft_ages.csv,20,Ban 44,Error_Plus,2,4,PROPAGATED,from Cosca1995a.csv row 4
+Bancroft_ages.csv,20,Ban 44,Error_Minus,2,4,PROPAGATED,from Cosca1995a.csv row 4
+Bancroft_ages.csv,20,Ban 44,Age_Note,amphibolite,amphibolite; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Cosca1995a.csv row 4
+Dahl2004a.csv,7,AL98-45,Error_Plus,3,10,TRANSCRIPTION,Dahl et al. 2004 Table 3 p.307: AL98-45 hornblende 1055 ± 10 (1σ)
+Dahl2004a.csv,7,AL98-45,Error_Minus,3,10,TRANSCRIPTION,Dahl et al. 2004 Table 3 p.307: AL98-45 hornblende 1055 ± 10 (1σ)
+Dahl2004a.csv,18,AL97-17c,Error_Plus,3,2,TRANSCRIPTION,Dahl et al. 2004 Table 3 p.307: AL97-17c biotite 987 ± 2 (1σ)
+Dahl2004a.csv,18,AL97-17c,Error_Minus,3,2,TRANSCRIPTION,Dahl et al. 2004 Table 3 p.307: AL97-17c biotite 987 ± 2 (1σ)
+Dahl2004a.csv,31,AL98-47b,Latitude,44.52148,44.5854,METADATA,Dahl et al. 2004 Table 1: AL98-47b 44°35.124'N 75°10.803'W (compiled row carried AL98-46 coordinates)
+Dahl2004a.csv,31,AL98-47b,Longitude,-75.2087,-75.18,METADATA,Dahl et al. 2004 Table 1: AL98-47b 44°35.124'N 75°10.803'W (compiled row carried AL98-46 coordinates)
+Dahl2004a.csv,0,AL97-13b,Error_Plus,4,8,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,0,AL97-13b,Error_Minus,4,8,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,1,AL97-15a,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,1,AL97-15a,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,2,AL97-18a,Error_Plus,10,20,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,2,AL97-18a,Error_Minus,10,20,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,3,AL97-22b,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,3,AL97-22b,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,4,AL97-27c,Error_Plus,10,20,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,4,AL97-27c,Error_Minus,10,20,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,5,AL97-27d,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,5,AL97-27d,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,6,AL97-35,Error_Plus,4,8,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,6,AL97-35,Error_Minus,4,8,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,7,AL98-45,Error_Plus,10,20,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,7,AL98-45,Error_Minus,10,20,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,8,AL98-46,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,8,AL98-46,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,9,AL98-47b,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,9,AL98-47b,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,10,AL98-50,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,10,AL98-50,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,11,AL97-2a,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,11,AL97-2a,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,12,AL97-5b,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,12,AL97-5b,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,13,AL97-8,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,13,AL97-8,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,14,AL97-12a,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,14,AL97-12a,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,15,AL97-13a,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,15,AL97-13a,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,16,AL97-14a,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,16,AL97-14a,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,17,AL97-15a,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,17,AL97-15a,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,18,AL97-17c,Error_Plus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,18,AL97-17c,Error_Minus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,19,AL97-18a,Error_Plus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,19,AL97-18a,Error_Minus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,20,AL97-22b,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,20,AL97-22b,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,21,AL97-27c,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,21,AL97-27c,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,22,AL97-27d,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,22,AL97-27d,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,23,AL97-31,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,23,AL97-31,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,24,AL97-33,Error_Plus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,24,AL97-33,Error_Minus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,25,AL97-35,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,25,AL97-35,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,26,AL97-37,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,26,AL97-37,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,27,AL97-40a,Error_Plus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,27,AL97-40a,Error_Minus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,28,AL98-42,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,28,AL98-42,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,29,AL98-43,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,29,AL98-43,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,30,AL98-45,Error_Plus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,30,AL98-45,Error_Minus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,31,AL98-47b,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,31,AL98-47b,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,32,AL98-49,Error_Plus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,32,AL98-49,Error_Minus,2,4,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,33,AL98-50,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,33,AL98-50,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,34,AL98-51,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,34,AL98-51,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,35,AL98-55,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,35,AL98-55,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,36,AL98-57,Error_Plus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+Dahl2004a.csv,36,AL98-57,Error_Minus,3,6,SIGMA,"Dahl et al. 2004 p.306 and Table 3 note: ""Age uncertainties are at the 1σ level"""
+study_summary.csv,190,AL97-13b,Error_Plus,4,8,PROPAGATED,from Dahl2004a.csv row 0
+study_summary.csv,190,AL97-13b,Error_Minus,4,8,PROPAGATED,from Dahl2004a.csv row 0
+study_summary.csv,190,AL97-13b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 0
+study_summary.csv,191,AL97-15a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 1
+study_summary.csv,191,AL97-15a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 1
+study_summary.csv,191,AL97-15a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 1
+study_summary.csv,192,AL97-18a,Error_Plus,10,20,PROPAGATED,from Dahl2004a.csv row 2
+study_summary.csv,192,AL97-18a,Error_Minus,10,20,PROPAGATED,from Dahl2004a.csv row 2
+study_summary.csv,192,AL97-18a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 2
+study_summary.csv,193,AL97-22b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 3
+study_summary.csv,193,AL97-22b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 3
+study_summary.csv,193,AL97-22b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 3
+study_summary.csv,194,AL97-27c,Error_Plus,10,20,PROPAGATED,from Dahl2004a.csv row 4
+study_summary.csv,194,AL97-27c,Error_Minus,10,20,PROPAGATED,from Dahl2004a.csv row 4
+study_summary.csv,194,AL97-27c,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 4
+study_summary.csv,195,AL97-27d,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 5
+study_summary.csv,195,AL97-27d,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 5
+study_summary.csv,195,AL97-27d,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 5
+study_summary.csv,196,AL97-35,Error_Plus,4,8,PROPAGATED,from Dahl2004a.csv row 6
+study_summary.csv,196,AL97-35,Error_Minus,4,8,PROPAGATED,from Dahl2004a.csv row 6
+study_summary.csv,196,AL97-35,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 6
+study_summary.csv,197,AL98-45,Error_Plus,3,20,PROPAGATED,from Dahl2004a.csv row 7
+study_summary.csv,197,AL98-45,Error_Minus,3,20,PROPAGATED,from Dahl2004a.csv row 7
+study_summary.csv,197,AL98-45,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 7
+study_summary.csv,198,AL98-46,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 8
+study_summary.csv,198,AL98-46,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 8
+study_summary.csv,198,AL98-46,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 8
+study_summary.csv,199,AL98-47b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 9
+study_summary.csv,199,AL98-47b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 9
+study_summary.csv,199,AL98-47b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 9
+study_summary.csv,200,AL98-50,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 10
+study_summary.csv,200,AL98-50,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 10
+study_summary.csv,200,AL98-50,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 10
+study_summary.csv,201,AL97-2a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 11
+study_summary.csv,201,AL97-2a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 11
+study_summary.csv,201,AL97-2a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 11
+study_summary.csv,202,AL97-5b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 12
+study_summary.csv,202,AL97-5b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 12
+study_summary.csv,202,AL97-5b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 12
+study_summary.csv,203,AL97-8,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 13
+study_summary.csv,203,AL97-8,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 13
+study_summary.csv,203,AL97-8,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 13
+study_summary.csv,204,AL97-12a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 14
+study_summary.csv,204,AL97-12a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 14
+study_summary.csv,204,AL97-12a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 14
+study_summary.csv,205,AL97-13a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 15
+study_summary.csv,205,AL97-13a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 15
+study_summary.csv,205,AL97-13a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 15
+study_summary.csv,206,AL97-14a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 16
+study_summary.csv,206,AL97-14a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 16
+study_summary.csv,206,AL97-14a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 16
+study_summary.csv,207,AL97-15a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 17
+study_summary.csv,207,AL97-15a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 17
+study_summary.csv,207,AL97-15a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 17
+study_summary.csv,208,AL97-17c,Error_Plus,3,4,PROPAGATED,from Dahl2004a.csv row 18
+study_summary.csv,208,AL97-17c,Error_Minus,3,4,PROPAGATED,from Dahl2004a.csv row 18
+study_summary.csv,208,AL97-17c,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 18
+study_summary.csv,209,AL97-18a,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 19
+study_summary.csv,209,AL97-18a,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 19
+study_summary.csv,209,AL97-18a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 19
+study_summary.csv,210,AL97-22b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 20
+study_summary.csv,210,AL97-22b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 20
+study_summary.csv,210,AL97-22b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 20
+study_summary.csv,211,AL97-27c,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 21
+study_summary.csv,211,AL97-27c,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 21
+study_summary.csv,211,AL97-27c,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 21
+study_summary.csv,212,AL97-27d,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 22
+study_summary.csv,212,AL97-27d,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 22
+study_summary.csv,212,AL97-27d,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 22
+study_summary.csv,213,AL97-31,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 23
+study_summary.csv,213,AL97-31,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 23
+study_summary.csv,213,AL97-31,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 23
+study_summary.csv,214,AL97-33,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 24
+study_summary.csv,214,AL97-33,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 24
+study_summary.csv,214,AL97-33,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 24
+study_summary.csv,215,AL97-35,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 25
+study_summary.csv,215,AL97-35,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 25
+study_summary.csv,215,AL97-35,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 25
+study_summary.csv,216,AL97-37,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 26
+study_summary.csv,216,AL97-37,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 26
+study_summary.csv,216,AL97-37,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 26
+study_summary.csv,217,AL97-40a,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 27
+study_summary.csv,217,AL97-40a,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 27
+study_summary.csv,217,AL97-40a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 27
+study_summary.csv,218,AL98-42,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 28
+study_summary.csv,218,AL98-42,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 28
+study_summary.csv,218,AL98-42,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 28
+study_summary.csv,219,AL98-43,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 29
+study_summary.csv,219,AL98-43,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 29
+study_summary.csv,219,AL98-43,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 29
+study_summary.csv,220,AL98-45,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 30
+study_summary.csv,220,AL98-45,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 30
+study_summary.csv,220,AL98-45,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 30
+study_summary.csv,221,AL98-47b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 31
+study_summary.csv,221,AL98-47b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 31
+study_summary.csv,221,AL98-47b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 31
+study_summary.csv,221,AL98-47b,Latitude,44.52148,44.5854,PROPAGATED,from Dahl2004a.csv row 31
+study_summary.csv,221,AL98-47b,Longitude,-75.2087,-75.18,PROPAGATED,from Dahl2004a.csv row 31
+study_summary.csv,222,AL98-49,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 32
+study_summary.csv,222,AL98-49,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 32
+study_summary.csv,222,AL98-49,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 32
+study_summary.csv,223,AL98-50,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 33
+study_summary.csv,223,AL98-50,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 33
+study_summary.csv,223,AL98-50,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 33
+study_summary.csv,224,AL98-51,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 34
+study_summary.csv,224,AL98-51,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 34
+study_summary.csv,224,AL98-51,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 34
+study_summary.csv,225,AL98-55,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 35
+study_summary.csv,225,AL98-55,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 35
+study_summary.csv,225,AL98-55,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 35
+study_summary.csv,226,AL98-57,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 36
+study_summary.csv,226,AL98-57,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 36
+study_summary.csv,226,AL98-57,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 36
+Adirondack_lowlands_ages.csv,0,AL97-13b,Error_Plus,4,8,PROPAGATED,from Dahl2004a.csv row 0
+Adirondack_lowlands_ages.csv,0,AL97-13b,Error_Minus,4,8,PROPAGATED,from Dahl2004a.csv row 0
+Adirondack_lowlands_ages.csv,0,AL97-13b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 0
+Adirondack_lowlands_ages.csv,1,AL97-15a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 1
+Adirondack_lowlands_ages.csv,1,AL97-15a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 1
+Adirondack_lowlands_ages.csv,1,AL97-15a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 1
+Adirondack_lowlands_ages.csv,2,AL97-18a,Error_Plus,10,20,PROPAGATED,from Dahl2004a.csv row 2
+Adirondack_lowlands_ages.csv,2,AL97-18a,Error_Minus,10,20,PROPAGATED,from Dahl2004a.csv row 2
+Adirondack_lowlands_ages.csv,2,AL97-18a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 2
+Adirondack_lowlands_ages.csv,3,AL97-22b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 3
+Adirondack_lowlands_ages.csv,3,AL97-22b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 3
+Adirondack_lowlands_ages.csv,3,AL97-22b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 3
+Adirondack_lowlands_ages.csv,4,AL97-27c,Error_Plus,10,20,PROPAGATED,from Dahl2004a.csv row 4
+Adirondack_lowlands_ages.csv,4,AL97-27c,Error_Minus,10,20,PROPAGATED,from Dahl2004a.csv row 4
+Adirondack_lowlands_ages.csv,4,AL97-27c,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 4
+Adirondack_lowlands_ages.csv,5,AL97-27d,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 5
+Adirondack_lowlands_ages.csv,5,AL97-27d,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 5
+Adirondack_lowlands_ages.csv,5,AL97-27d,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 5
+Adirondack_lowlands_ages.csv,6,AL97-35,Error_Plus,4,8,PROPAGATED,from Dahl2004a.csv row 6
+Adirondack_lowlands_ages.csv,6,AL97-35,Error_Minus,4,8,PROPAGATED,from Dahl2004a.csv row 6
+Adirondack_lowlands_ages.csv,6,AL97-35,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 6
+Adirondack_lowlands_ages.csv,7,AL98-45,Error_Plus,3,20,PROPAGATED,from Dahl2004a.csv row 7
+Adirondack_lowlands_ages.csv,7,AL98-45,Error_Minus,3,20,PROPAGATED,from Dahl2004a.csv row 7
+Adirondack_lowlands_ages.csv,7,AL98-45,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 7
+Adirondack_lowlands_ages.csv,8,AL98-46,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 8
+Adirondack_lowlands_ages.csv,8,AL98-46,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 8
+Adirondack_lowlands_ages.csv,8,AL98-46,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 8
+Adirondack_lowlands_ages.csv,9,AL98-47b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 9
+Adirondack_lowlands_ages.csv,9,AL98-47b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 9
+Adirondack_lowlands_ages.csv,9,AL98-47b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 9
+Adirondack_lowlands_ages.csv,10,AL98-50,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 10
+Adirondack_lowlands_ages.csv,10,AL98-50,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 10
+Adirondack_lowlands_ages.csv,10,AL98-50,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 10
+Adirondack_lowlands_ages.csv,11,AL97-2a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 11
+Adirondack_lowlands_ages.csv,11,AL97-2a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 11
+Adirondack_lowlands_ages.csv,11,AL97-2a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 11
+Adirondack_lowlands_ages.csv,12,AL97-5b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 12
+Adirondack_lowlands_ages.csv,12,AL97-5b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 12
+Adirondack_lowlands_ages.csv,12,AL97-5b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 12
+Adirondack_lowlands_ages.csv,13,AL97-12a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 14
+Adirondack_lowlands_ages.csv,13,AL97-12a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 14
+Adirondack_lowlands_ages.csv,13,AL97-12a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 14
+Adirondack_lowlands_ages.csv,14,AL97-13a,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 15
+Adirondack_lowlands_ages.csv,14,AL97-13a,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 15
+Adirondack_lowlands_ages.csv,14,AL97-13a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 15
+Adirondack_lowlands_ages.csv,15,AL97-17c,Error_Plus,3,4,PROPAGATED,from Dahl2004a.csv row 18
+Adirondack_lowlands_ages.csv,15,AL97-17c,Error_Minus,3,4,PROPAGATED,from Dahl2004a.csv row 18
+Adirondack_lowlands_ages.csv,15,AL97-17c,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 18
+Adirondack_lowlands_ages.csv,16,AL97-18a,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 19
+Adirondack_lowlands_ages.csv,16,AL97-18a,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 19
+Adirondack_lowlands_ages.csv,16,AL97-18a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 19
+Adirondack_lowlands_ages.csv,17,AL97-22b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 20
+Adirondack_lowlands_ages.csv,17,AL97-22b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 20
+Adirondack_lowlands_ages.csv,17,AL97-22b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 20
+Adirondack_lowlands_ages.csv,18,AL97-27d,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 22
+Adirondack_lowlands_ages.csv,18,AL97-27d,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 22
+Adirondack_lowlands_ages.csv,18,AL97-27d,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 22
+Adirondack_lowlands_ages.csv,19,AL97-31,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 23
+Adirondack_lowlands_ages.csv,19,AL97-31,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 23
+Adirondack_lowlands_ages.csv,19,AL97-31,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 23
+Adirondack_lowlands_ages.csv,20,AL97-33,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 24
+Adirondack_lowlands_ages.csv,20,AL97-33,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 24
+Adirondack_lowlands_ages.csv,20,AL97-33,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 24
+Adirondack_lowlands_ages.csv,21,AL97-35,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 25
+Adirondack_lowlands_ages.csv,21,AL97-35,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 25
+Adirondack_lowlands_ages.csv,21,AL97-35,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 25
+Adirondack_lowlands_ages.csv,22,AL97-37,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 26
+Adirondack_lowlands_ages.csv,22,AL97-37,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 26
+Adirondack_lowlands_ages.csv,22,AL97-37,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 26
+Adirondack_lowlands_ages.csv,23,AL97-40a,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 27
+Adirondack_lowlands_ages.csv,23,AL97-40a,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 27
+Adirondack_lowlands_ages.csv,23,AL97-40a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 27
+Adirondack_lowlands_ages.csv,24,AL98-42,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 28
+Adirondack_lowlands_ages.csv,24,AL98-42,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 28
+Adirondack_lowlands_ages.csv,24,AL98-42,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 28
+Adirondack_lowlands_ages.csv,25,AL98-43,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 29
+Adirondack_lowlands_ages.csv,25,AL98-43,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 29
+Adirondack_lowlands_ages.csv,25,AL98-43,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 29
+Adirondack_lowlands_ages.csv,26,AL98-45,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 30
+Adirondack_lowlands_ages.csv,26,AL98-45,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 30
+Adirondack_lowlands_ages.csv,26,AL98-45,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 30
+Adirondack_lowlands_ages.csv,27,AL98-47b,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 31
+Adirondack_lowlands_ages.csv,27,AL98-47b,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 31
+Adirondack_lowlands_ages.csv,27,AL98-47b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 31
+Adirondack_lowlands_ages.csv,27,AL98-47b,Latitude,44.52148,44.5854,PROPAGATED,from Dahl2004a.csv row 31
+Adirondack_lowlands_ages.csv,27,AL98-47b,Longitude,-75.2087,-75.18,PROPAGATED,from Dahl2004a.csv row 31
+Adirondack_lowlands_ages.csv,28,AL98-49,Error_Plus,2,4,PROPAGATED,from Dahl2004a.csv row 32
+Adirondack_lowlands_ages.csv,28,AL98-49,Error_Minus,2,4,PROPAGATED,from Dahl2004a.csv row 32
+Adirondack_lowlands_ages.csv,28,AL98-49,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 32
+Adirondack_lowlands_ages.csv,29,AL98-55,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 35
+Adirondack_lowlands_ages.csv,29,AL98-55,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 35
+Adirondack_lowlands_ages.csv,29,AL98-55,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 35
+Adirondack_lowlands_ages.csv,30,AL98-57,Error_Plus,3,6,PROPAGATED,from Dahl2004a.csv row 36
+Adirondack_lowlands_ages.csv,30,AL98-57,Error_Minus,3,6,PROPAGATED,from Dahl2004a.csv row 36
+Adirondack_lowlands_ages.csv,30,AL98-57,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Dahl2004a.csv row 36
+Friedman1995a.csv,17,1b MLt,Error_Minus,0,146,TRANSCRIPTION,Friedman & Martignole 1995 p.2110: sample 1b upper intercept 1667 +164/-146 Ma
+study_summary.csv,244,1b MLt,Error_Minus,0,146,PROPAGATED,from Friedman1995a.csv row 17
+Heizler1998a.csv,2,2,Latitude,43.2,43.4,METADATA,Heizler & Harrison 1998 Table 1: sample 2 at 43°24'
+Heizler1998a.csv,3,2,Latitude,43.2,43.4,METADATA,Heizler & Harrison 1998 Table 1: sample 2 at 43°24'
+Heizler1998a.csv,4,3,Latitude,43.2,43.4,METADATA,Heizler & Harrison 1998 Table 1: sample 3 at 43°24'
+Heizler1998a.csv,5,3,Latitude,43.2,43.4,METADATA,Heizler & Harrison 1998 Table 1: sample 3 at 43°24'
+Heizler1998a.csv,12,9,Latitude,44.32,43.32,METADATA,Heizler & Harrison 1998 Table 1: sample 9 at 43°19'
+Heizler1998a.csv,0,1,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,0,1,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,1,1,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,1,1,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,2,2,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,2,2,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,3,2,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,3,2,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,4,3,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,4,3,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,5,3,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,5,3,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,6,5,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,6,5,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,7,5,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,7,5,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,8,6,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,8,6,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,9,6,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,9,6,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,10,7,Error_Plus,14,28,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,10,7,Error_Minus,14,28,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,11,8,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,11,8,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,12,9,Error_Plus,21,42,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,12,9,Error_Minus,21,42,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,13,11,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,13,11,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,14,12,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,14,12,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,15,12,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,15,12,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,16,13,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,16,13,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,17,13,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,17,13,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,18,15,Error_Plus,10,20,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,18,15,Error_Minus,10,20,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,19,15,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,19,15,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,20,16,Error_Plus,10,20,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,20,16,Error_Minus,10,20,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,21,16,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,21,16,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,22,17,Error_Plus,3,6,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,22,17,Error_Minus,3,6,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,23,17,Error_Plus,8,16,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,23,17,Error_Minus,8,16,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,24,17,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,24,17,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,25,18,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,25,18,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,26,19,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,26,19,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,27,21,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,27,21,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,28,21,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,28,21,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,29,21,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,29,21,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,30,22,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,30,22,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,31,23,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,31,23,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,32,24,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,32,24,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,33,25,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,33,25,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,34,26,Error_Plus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,34,26,Error_Minus,1,2,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,35,44,Error_Plus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Heizler1998a.csv,35,44,Error_Minus,2,4,SIGMA,"Heizler & Harrison 1998 pp.29,797-29,798: ""Uncertainties for the ages are quoted at the one-sigma level"" (excl. 1% J error)"
+Adirondack_lowlands_ages.csv,50,11,Error_Plus,2,4,PROPAGATED,from Heizler1998a.csv row 13
+Adirondack_lowlands_ages.csv,50,11,Error_Minus,2,4,PROPAGATED,from Heizler1998a.csv row 13
+Adirondack_lowlands_ages.csv,50,11,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Heizler1998a.csv row 13
+Ketchum1998a.csv,21,GC91-270,Error_Minus,4,2,TRANSCRIPTION,Ketchum et al. 1998 text p.35 and Fig. 5b: GC91-270 1042 +4/-2 Ma
+study_summary.csv,301,GC91-270,Error_Minus,4,2,PROPAGATED,from Ketchum1998a.csv row 21
+Lopez-Martinez1983a.csv,0,HBDE CG 121,Age_Note,Plateau age,"Integrated (total-gas) age, Table 2 p.956; authors' plateau age 1146 ± 12 (1σ), text p.957",METADATA,Lopez-Martinez & York 1983 Table 2 p.956 (integrated) vs text p.957 (plateau)
+Lopez-Martinez1983a.csv,1,HBDE CG 64,Age_Note,Plateau age,"Integrated (total-gas) age, Table 2 p.956; authors' plateau age 1056 ± 8 (1σ), text p.957",METADATA,Lopez-Martinez & York 1983 Table 2 p.956 (integrated) vs text p.957 (plateau)
+Lopez-Martinez1983a.csv,2,PLAG CG 121,Age_Note,Plateau age,"Integrated (total-gas) age, Table 2 p.956; authors' plateau age 447 ± 8 (1σ), text p.957",METADATA,Lopez-Martinez & York 1983 Table 2 p.956 (integrated) vs text p.957 (plateau)
+Lopez-Martinez1983a.csv,3,PLAG CG 121,Age_Note,Plateau age,"Integrated (total-gas) age, Table 2 p.956; authors' plateau age 446 ± 2 (1σ), text p.957",METADATA,Lopez-Martinez & York 1983 Table 2 p.956 (integrated) vs text p.957 (plateau)
+Lopez-Martinez1983a.csv,0,HBDE CG 121,Error_Plus,13,26,SIGMA,"Lopez-Martinez & York 1983 Table 2 p.956: ""Errors in this table are 1σ SE"""
+Lopez-Martinez1983a.csv,0,HBDE CG 121,Error_Minus,13,26,SIGMA,"Lopez-Martinez & York 1983 Table 2 p.956: ""Errors in this table are 1σ SE"""
+Lopez-Martinez1983a.csv,1,HBDE CG 64,Error_Plus,8,16,SIGMA,"Lopez-Martinez & York 1983 Table 2 p.956: ""Errors in this table are 1σ SE"""
+Lopez-Martinez1983a.csv,1,HBDE CG 64,Error_Minus,8,16,SIGMA,"Lopez-Martinez & York 1983 Table 2 p.956: ""Errors in this table are 1σ SE"""
+Lopez-Martinez1983a.csv,2,PLAG CG 121,Error_Plus,4,8,SIGMA,"Lopez-Martinez & York 1983 Table 2 p.956: ""Errors in this table are 1σ SE"""
+Lopez-Martinez1983a.csv,2,PLAG CG 121,Error_Minus,4,8,SIGMA,"Lopez-Martinez & York 1983 Table 2 p.956: ""Errors in this table are 1σ SE"""
+Lopez-Martinez1983a.csv,3,PLAG CG 121,Error_Plus,1,2,SIGMA,"Lopez-Martinez & York 1983 Table 2 p.956: ""Errors in this table are 1σ SE"""
+Lopez-Martinez1983a.csv,3,PLAG CG 121,Error_Minus,1,2,SIGMA,"Lopez-Martinez & York 1983 Table 2 p.956: ""Errors in this table are 1σ SE"""
+Martignole1998a.csv,0,1 GF zone peg,Error_Minus,151.3,151,TRANSCRIPTION,Martignole & Friedman 1998 p.153 / Fig. 2: 827 ± 151 Ma
+study_summary.csv,309,1 GF zone peg,Error_Minus,151.3,151,PROPAGATED,from Martignole1998a.csv row 0
+Mezger1991a.csv,2,87B,Age,1092,1093,TRANSCRIPTION,Mezger et al. 1991a Table 1 p.418: 87B sphene rim 207Pb/206Pb 1093 ± 4
+study_summary.csv,406,87B,Age,1092,1093,PROPAGATED,from Mezger1991a.csv row 2
+Adirondack_lowlands_ages.csv,35,87B,Age,1092,1093,PROPAGATED,from Mezger1991a.csv row 2
+Mezger1991b.csv,18,REN-28,Age_Material,Titanite,Monazite,METADATA,"Mezger et al. 1991b Table 1 p.696 marks REN-28 ""*Monazite""; text: ""a monazite from a metapelite was dated at 1041 ± 2 Ma"""
+study_summary.csv,462,REN-28,Age_Material,Titanite,Monazite,PROPAGATED,from Mezger1991b.csv row 18
+Bancroft_ages.csv,32,REN-28,Age_Material,Titanite,Monazite,PROPAGATED,from Mezger1991b.csv row 18
+Mezger1993a.csv,16,90-48,Error_Plus,2,3,TRANSCRIPTION,Mezger et al. 1993 Table 1 p.17: 90-48 calc-silicate 1050 ± 3
+Mezger1993a.csv,16,90-48,Error_Minus,2,3,TRANSCRIPTION,Mezger et al. 1993 Table 1 p.17: 90-48 calc-silicate 1050 ± 3
+study_summary.csv,376,90-48,Error_Plus,2,3,PROPAGATED,from Mezger1993a.csv row 16
+study_summary.csv,376,90-48,Error_Minus,2,3,PROPAGATED,from Mezger1993a.csv row 16
+Morisset2009a.csv,0,2033-D,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,1,2006-C2,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,2,2042-A,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,3,2043-A,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,4,2020,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,5,2023,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,6,2006-G1,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,7,2015-B4,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,8,2030-B2,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,9,2033-D,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,10,2006-B4,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,11,2006-C4,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,12,2015-A4,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,13,2033-A2,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,14,2033-D,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,15,2036-B1B,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,16,2015-A4,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,17,2033-D,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,18,2042-A,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,19,2102,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,20,2114-B,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,21,2123-B,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,22,2132,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,23,2104-D,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,24,2109-A,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,25,2103-B3,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,26,2103-B3,Province,ON,QC,METADATA,Saint-Urbain and Lac Allard are in Québec (Morisset et al. 2009 Table 1)
+Morisset2009a.csv,0,2033-D,Error_Plus,3.6,7.2,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,0,2033-D,Error_Minus,3.6,7.2,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,1,2006-C2,Error_Plus,1.3,2.6,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,1,2006-C2,Error_Minus,1.3,2.6,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,2,2042-A,Error_Plus,1.55,3.1,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,2,2042-A,Error_Minus,1.55,3.1,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,3,2043-A,Error_Plus,1.2,2.4,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,3,2043-A,Error_Minus,1.2,2.4,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,4,2020,Error_Plus,0.75,1.5,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,4,2020,Error_Minus,0.75,1.5,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,5,2023,Error_Plus,1.4,2.8,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,5,2023,Error_Minus,1.4,2.8,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,6,2006-G1,Error_Plus,0.55,1.1,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,6,2006-G1,Error_Minus,0.55,1.1,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,7,2015-B4,Error_Plus,5.5,11,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,7,2015-B4,Error_Minus,5.5,11,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,8,2030-B2,Error_Plus,1.5,3,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,8,2030-B2,Error_Minus,1.5,3,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,9,2033-D,Error_Plus,19.5,39,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,9,2033-D,Error_Minus,19.5,39,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,10,2006-B4,Error_Plus,2.4,4.8,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,10,2006-B4,Error_Minus,2.4,4.8,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,11,2006-C4,Error_Plus,2.7,5.4,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,11,2006-C4,Error_Minus,2.7,5.4,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,12,2015-A4,Error_Plus,2.35,4.7,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,12,2015-A4,Error_Minus,2.35,4.7,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,13,2033-A2,Error_Plus,2.4,4.8,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,13,2033-A2,Error_Minus,2.4,4.8,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,14,2033-D,Error_Plus,2.3,4.6,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,14,2033-D,Error_Minus,2.3,4.6,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,15,2036-B1B,Error_Plus,2.25,4.5,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,15,2036-B1B,Error_Minus,2.25,4.5,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,16,2015-A4,Error_Plus,2.7,5.4,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,16,2015-A4,Error_Minus,2.7,5.4,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,17,2033-D,Error_Plus,4.15,8.3,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,17,2033-D,Error_Minus,4.15,8.3,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,18,2042-A,Error_Plus,2.7,5.4,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,18,2042-A,Error_Minus,2.7,5.4,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,19,2102,Error_Plus,3.25,6.5,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,19,2102,Error_Minus,3.25,6.5,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,20,2114-B,Error_Plus,1.5,3,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,20,2114-B,Error_Minus,1.5,3,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,21,2123-B,Error_Plus,2.85,5.7,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,21,2123-B,Error_Minus,2.85,5.7,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,22,2132,Error_Plus,0.95,1.9,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,22,2132,Error_Minus,0.95,1.9,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,23,2104-D,Error_Plus,12.5,25,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,23,2104-D,Error_Minus,12.5,25,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,24,2109-A,Error_Plus,16,32,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,24,2109-A,Error_Minus,16,32,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,25,2103-B3,Error_Plus,4.15,8.3,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,25,2103-B3,Error_Minus,4.15,8.3,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,26,2103-B3,Error_Plus,6,12,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Morisset2009a.csv,26,2103-B3,Error_Minus,6,12,SIGMA,"Morisset et al. 2009 p.100 ""all errors are quoted at the 2σ level""; Table 4 (p.112) ""Age (Ma) ±2σ""; compiled errors were exactly half of Table 4 values"
+Allard_Urbain_ages.csv,0,2036-B1B,Error_Plus,2.25,4.5,PROPAGATED,from Morisset2009a.csv row 15
+Allard_Urbain_ages.csv,0,2036-B1B,Error_Minus,2.25,4.5,PROPAGATED,from Morisset2009a.csv row 15
+Allard_Urbain_ages.csv,0,2036-B1B,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 15
+Allard_Urbain_ages.csv,0,2036-B1B,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 15
+Allard_Urbain_ages.csv,1,2033-D,Error_Plus,2.3,4.6,PROPAGATED,from Morisset2009a.csv row 14
+Allard_Urbain_ages.csv,1,2033-D,Error_Minus,2.3,4.6,PROPAGATED,from Morisset2009a.csv row 14
+Allard_Urbain_ages.csv,1,2033-D,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 14
+Allard_Urbain_ages.csv,1,2033-D,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 14
+Allard_Urbain_ages.csv,2,2006-C4,Error_Plus,2.7,5.4,PROPAGATED,from Morisset2009a.csv row 11
+Allard_Urbain_ages.csv,2,2006-C4,Error_Minus,2.7,5.4,PROPAGATED,from Morisset2009a.csv row 11
+Allard_Urbain_ages.csv,2,2006-C4,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 11
+Allard_Urbain_ages.csv,2,2006-C4,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 11
+Allard_Urbain_ages.csv,3,2015-A4,Error_Plus,2.35,4.7,PROPAGATED,from Morisset2009a.csv row 12
+Allard_Urbain_ages.csv,3,2015-A4,Error_Minus,2.35,4.7,PROPAGATED,from Morisset2009a.csv row 12
+Allard_Urbain_ages.csv,3,2015-A4,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 12
+Allard_Urbain_ages.csv,3,2015-A4,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 12
+Allard_Urbain_ages.csv,4,2033-A2,Error_Plus,2.4,4.8,PROPAGATED,from Morisset2009a.csv row 13
+Allard_Urbain_ages.csv,4,2033-A2,Error_Minus,2.4,4.8,PROPAGATED,from Morisset2009a.csv row 13
+Allard_Urbain_ages.csv,4,2033-A2,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 13
+Allard_Urbain_ages.csv,4,2033-A2,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 13
+Allard_Urbain_ages.csv,5,2033-D,Error_Plus,4.15,8.3,PROPAGATED,from Morisset2009a.csv row 17
+Allard_Urbain_ages.csv,5,2033-D,Error_Minus,4.15,8.3,PROPAGATED,from Morisset2009a.csv row 17
+Allard_Urbain_ages.csv,5,2033-D,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 17
+Allard_Urbain_ages.csv,5,2033-D,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 17
+Allard_Urbain_ages.csv,6,2042-A,Error_Plus,2.7,5.4,PROPAGATED,from Morisset2009a.csv row 18
+Allard_Urbain_ages.csv,6,2042-A,Error_Minus,2.7,5.4,PROPAGATED,from Morisset2009a.csv row 18
+Allard_Urbain_ages.csv,6,2042-A,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 18
+Allard_Urbain_ages.csv,6,2042-A,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 18
+Allard_Urbain_ages.csv,7,2015-A4,Error_Plus,2.7,5.4,PROPAGATED,from Morisset2009a.csv row 16
+Allard_Urbain_ages.csv,7,2015-A4,Error_Minus,2.7,5.4,PROPAGATED,from Morisset2009a.csv row 16
+Allard_Urbain_ages.csv,7,2015-A4,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 16
+Allard_Urbain_ages.csv,7,2015-A4,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 16
+Allard_Urbain_ages.csv,8,2103-B3,Error_Plus,6.0,12,PROPAGATED,from Morisset2009a.csv row 26
+Allard_Urbain_ages.csv,8,2103-B3,Error_Minus,6.0,12,PROPAGATED,from Morisset2009a.csv row 26
+Allard_Urbain_ages.csv,8,2103-B3,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 26
+Allard_Urbain_ages.csv,8,2103-B3,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 26
+Allard_Urbain_ages.csv,9,2015-B4,Error_Plus,5.5,11,PROPAGATED,from Morisset2009a.csv row 7
+Allard_Urbain_ages.csv,9,2015-B4,Error_Minus,5.5,11,PROPAGATED,from Morisset2009a.csv row 7
+Allard_Urbain_ages.csv,9,2015-B4,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 7
+Allard_Urbain_ages.csv,9,2015-B4,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 7
+Allard_Urbain_ages.csv,10,2006-G1,Error_Plus,0.55,1.1,PROPAGATED,from Morisset2009a.csv row 6
+Allard_Urbain_ages.csv,10,2006-G1,Error_Minus,0.55,1.1,PROPAGATED,from Morisset2009a.csv row 6
+Allard_Urbain_ages.csv,10,2006-G1,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 6
+Allard_Urbain_ages.csv,10,2006-G1,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 6
+Allard_Urbain_ages.csv,11,2030-B2,Error_Plus,1.5,3,PROPAGATED,from Morisset2009a.csv row 8
+Allard_Urbain_ages.csv,11,2030-B2,Error_Minus,1.5,3,PROPAGATED,from Morisset2009a.csv row 8
+Allard_Urbain_ages.csv,11,2030-B2,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 8
+Allard_Urbain_ages.csv,11,2030-B2,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 8
+Allard_Urbain_ages.csv,12,2109-A,Error_Plus,16.0,32,PROPAGATED,from Morisset2009a.csv row 24
+Allard_Urbain_ages.csv,12,2109-A,Error_Minus,16.0,32,PROPAGATED,from Morisset2009a.csv row 24
+Allard_Urbain_ages.csv,12,2109-A,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 24
+Allard_Urbain_ages.csv,12,2109-A,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 24
+Allard_Urbain_ages.csv,13,2033-D,Error_Plus,19.5,39,PROPAGATED,from Morisset2009a.csv row 9
+Allard_Urbain_ages.csv,13,2033-D,Error_Minus,19.5,39,PROPAGATED,from Morisset2009a.csv row 9
+Allard_Urbain_ages.csv,13,2033-D,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 9
+Allard_Urbain_ages.csv,13,2033-D,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 9
+Allard_Urbain_ages.csv,14,2104-D,Error_Plus,12.5,25,PROPAGATED,from Morisset2009a.csv row 23
+Allard_Urbain_ages.csv,14,2104-D,Error_Minus,12.5,25,PROPAGATED,from Morisset2009a.csv row 23
+Allard_Urbain_ages.csv,14,2104-D,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 23
+Allard_Urbain_ages.csv,14,2104-D,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 23
+Allard_Urbain_ages.csv,15,2042-A,Error_Plus,1.55,3.1,PROPAGATED,from Morisset2009a.csv row 2
+Allard_Urbain_ages.csv,15,2042-A,Error_Minus,1.55,3.1,PROPAGATED,from Morisset2009a.csv row 2
+Allard_Urbain_ages.csv,15,2042-A,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 2
+Allard_Urbain_ages.csv,15,2042-A,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 2
+Allard_Urbain_ages.csv,16,2102,Error_Plus,3.25,6.5,PROPAGATED,from Morisset2009a.csv row 19
+Allard_Urbain_ages.csv,16,2102,Error_Minus,3.25,6.5,PROPAGATED,from Morisset2009a.csv row 19
+Allard_Urbain_ages.csv,16,2102,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 19
+Allard_Urbain_ages.csv,16,2102,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 19
+Allard_Urbain_ages.csv,17,2006-C2,Error_Plus,1.3,2.6,PROPAGATED,from Morisset2009a.csv row 1
+Allard_Urbain_ages.csv,17,2006-C2,Error_Minus,1.3,2.6,PROPAGATED,from Morisset2009a.csv row 1
+Allard_Urbain_ages.csv,17,2006-C2,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 1
+Allard_Urbain_ages.csv,17,2006-C2,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 1
+Allard_Urbain_ages.csv,18,2043-A,Error_Plus,1.2,2.4,PROPAGATED,from Morisset2009a.csv row 3
+Allard_Urbain_ages.csv,18,2043-A,Error_Minus,1.2,2.4,PROPAGATED,from Morisset2009a.csv row 3
+Allard_Urbain_ages.csv,18,2043-A,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 3
+Allard_Urbain_ages.csv,18,2043-A,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 3
+Allard_Urbain_ages.csv,19,2020,Error_Plus,0.75,1.5,PROPAGATED,from Morisset2009a.csv row 4
+Allard_Urbain_ages.csv,19,2020,Error_Minus,0.75,1.5,PROPAGATED,from Morisset2009a.csv row 4
+Allard_Urbain_ages.csv,19,2020,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 4
+Allard_Urbain_ages.csv,19,2020,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 4
+Allard_Urbain_ages.csv,20,2123-B,Error_Plus,2.85,5.7,PROPAGATED,from Morisset2009a.csv row 21
+Allard_Urbain_ages.csv,20,2123-B,Error_Minus,2.85,5.7,PROPAGATED,from Morisset2009a.csv row 21
+Allard_Urbain_ages.csv,20,2123-B,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 21
+Allard_Urbain_ages.csv,20,2123-B,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 21
+Allard_Urbain_ages.csv,21,2132,Error_Plus,0.95,1.9,PROPAGATED,from Morisset2009a.csv row 22
+Allard_Urbain_ages.csv,21,2132,Error_Minus,0.95,1.9,PROPAGATED,from Morisset2009a.csv row 22
+Allard_Urbain_ages.csv,21,2132,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 22
+Allard_Urbain_ages.csv,21,2132,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 22
+Allard_Urbain_ages.csv,22,2023,Error_Plus,1.4,2.8,PROPAGATED,from Morisset2009a.csv row 5
+Allard_Urbain_ages.csv,22,2023,Error_Minus,1.4,2.8,PROPAGATED,from Morisset2009a.csv row 5
+Allard_Urbain_ages.csv,22,2023,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 5
+Allard_Urbain_ages.csv,22,2023,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 5
+Allard_Urbain_ages.csv,23,2114-B,Error_Plus,1.5,3,PROPAGATED,from Morisset2009a.csv row 20
+Allard_Urbain_ages.csv,23,2114-B,Error_Minus,1.5,3,PROPAGATED,from Morisset2009a.csv row 20
+Allard_Urbain_ages.csv,23,2114-B,Age_Note,,[audit 2026-10: errors restored published 2σ (compiled values were 2σ/2)],PROPAGATED,from Morisset2009a.csv row 20
+Allard_Urbain_ages.csv,23,2114-B,Province,ON,QC,PROPAGATED,from Morisset2009a.csv row 20
+Onstott1987a.csv,0,3-1-H-1,Error_Plus,1.8,3.6,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,0,3-1-H-1,Error_Minus,1.8,3.6,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,1,3-1-H-2,Error_Plus,1.9,3.8,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,1,3-1-H-2,Error_Minus,1.9,3.8,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,2,3-2-H,Error_Plus,1.6,3.2,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,2,3-2-H,Error_Minus,1.6,3.2,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,3,3-3-H-1,Error_Plus,1.7,3.4,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,3,3-3-H-1,Error_Minus,1.7,3.4,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,4,3-3-H-2,Error_Plus,1.6,3.2,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,4,3-3-H-2,Error_Minus,1.6,3.2,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,5,3-1-B,Error_Plus,1.8,3.6,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Onstott1987a.csv,5,3-1-B,Error_Minus,1.8,3.6,SIGMA,"Onstott & Peacock 1987 Table 1 footnote p.2892: ""All errors are ± 1 S.D."""
+Adirondack_highlands_ages.csv,0,3-1-H-1,Error_Plus,1.8,3.6,PROPAGATED,from Onstott1987a.csv row 0
+Adirondack_highlands_ages.csv,0,3-1-H-1,Error_Minus,1.8,3.6,PROPAGATED,from Onstott1987a.csv row 0
+Adirondack_highlands_ages.csv,0,3-1-H-1,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Onstott1987a.csv row 0
+Adirondack_highlands_ages.csv,1,3-1-H-2,Error_Plus,1.9,3.8,PROPAGATED,from Onstott1987a.csv row 1
+Adirondack_highlands_ages.csv,1,3-1-H-2,Error_Minus,1.9,3.8,PROPAGATED,from Onstott1987a.csv row 1
+Adirondack_highlands_ages.csv,1,3-1-H-2,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Onstott1987a.csv row 1
+Adirondack_highlands_ages.csv,2,3-2-H,Error_Plus,1.6,3.2,PROPAGATED,from Onstott1987a.csv row 2
+Adirondack_highlands_ages.csv,2,3-2-H,Error_Minus,1.6,3.2,PROPAGATED,from Onstott1987a.csv row 2
+Adirondack_highlands_ages.csv,2,3-2-H,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Onstott1987a.csv row 2
+Adirondack_highlands_ages.csv,3,3-3-H-1,Error_Plus,1.7,3.4,PROPAGATED,from Onstott1987a.csv row 3
+Adirondack_highlands_ages.csv,3,3-3-H-1,Error_Minus,1.7,3.4,PROPAGATED,from Onstott1987a.csv row 3
+Adirondack_highlands_ages.csv,3,3-3-H-1,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Onstott1987a.csv row 3
+Adirondack_highlands_ages.csv,4,3-3-H-2,Error_Plus,1.6,3.2,PROPAGATED,from Onstott1987a.csv row 4
+Adirondack_highlands_ages.csv,4,3-3-H-2,Error_Minus,1.6,3.2,PROPAGATED,from Onstott1987a.csv row 4
+Adirondack_highlands_ages.csv,4,3-3-H-2,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Onstott1987a.csv row 4
+Adirondack_highlands_ages.csv,5,3-1-B,Error_Plus,1.8,3.6,PROPAGATED,from Onstott1987a.csv row 5
+Adirondack_highlands_ages.csv,5,3-1-B,Error_Minus,1.8,3.6,PROPAGATED,from Onstott1987a.csv row 5
+Adirondack_highlands_ages.csv,5,3-1-B,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Onstott1987a.csv row 5
+Palmer1979a.csv,0,SP-25,Age_Method,Ar/Ar,K/Ar,METADATA,Palmer et al. 1979 abstract p.459 and text p.461; Table 1 p.461
+Palmer1979a.csv,0,SP-25,Age_Technique,Ar Furnace-Step,Ar Furnace-Fusion,METADATA,Palmer et al. 1979 abstract p.459 and text p.461; Table 1 p.461
+Palmer1979a.csv,0,SP-25,Age_Note,Whole Rock,"Whole Rock; conventional K-Ar whole-rock isochron (York 1969 fit, ~9-10 samples), not an age of sample SP-25 alone (SP-25 K-Ar = 1130 Ma, rejected by authors); sigma of ±11 not stated",METADATA,Palmer et al. 1979 abstract p.459 and text p.461; Table 1 p.461
+Streepey2000a.csv,1,A112,Error_Plus,4,8,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,1,A112,Error_Minus,4,8,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,3,A128,Error_Plus,4,8,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,3,A128,Error_Minus,4,8,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,4,A129,Error_Plus,3,6,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,4,A129,Error_Minus,3,6,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,5,A136,Error_Plus,8,16,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,5,A136,Error_Minus,8,16,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,6,A142,Error_Plus,1,2,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,6,A142,Error_Minus,1,2,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,7,CN596-56,Error_Plus,2,4,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,7,CN596-56,Error_Minus,2,4,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,8,HM95,Error_Plus,2,4,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,8,HM95,Error_Minus,2,4,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,9,LB596-31b,Error_Plus,2,4,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,9,LB596-31b,Error_Minus,2,4,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,10,LB93,Error_Plus,2,4,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,10,LB93,Error_Minus,2,4,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,11,PP596-60,Error_Plus,1,2,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,11,PP596-60,Error_Minus,1,2,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,12,SE596-49,Error_Plus,1,2,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+Streepey2000a.csv,12,SE596-49,Error_Minus,1,2,SIGMA,"Streepey et al. 2000 Fig. 3 caption p.1527 ""plateau ages and 1 σ errors""; GSA DR 2000100 Table DR1 column ""1σ error (Ma)"""
+study_summary.csv,653,HM95,Error_Plus,2,4,PROPAGATED,from Streepey2000a.csv row 8
+study_summary.csv,653,HM95,Error_Minus,2,4,PROPAGATED,from Streepey2000a.csv row 8
+study_summary.csv,653,HM95,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 8
+study_summary.csv,655,A128,Error_Plus,4,8,PROPAGATED,from Streepey2000a.csv row 3
+study_summary.csv,655,A128,Error_Minus,4,8,PROPAGATED,from Streepey2000a.csv row 3
+study_summary.csv,655,A128,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 3
+study_summary.csv,656,A129,Error_Plus,3,6,PROPAGATED,from Streepey2000a.csv row 4
+study_summary.csv,656,A129,Error_Minus,3,6,PROPAGATED,from Streepey2000a.csv row 4
+study_summary.csv,656,A129,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 4
+study_summary.csv,657,A136,Error_Plus,8,16,PROPAGATED,from Streepey2000a.csv row 5
+study_summary.csv,657,A136,Error_Minus,8,16,PROPAGATED,from Streepey2000a.csv row 5
+study_summary.csv,657,A136,Age_Note,Total Gas Age,Total Gas Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 5
+study_summary.csv,658,A112,Error_Plus,4,8,PROPAGATED,from Streepey2000a.csv row 1
+study_summary.csv,658,A112,Error_Minus,4,8,PROPAGATED,from Streepey2000a.csv row 1
+study_summary.csv,658,A112,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 1
+study_summary.csv,660,A142,Error_Plus,1,2,PROPAGATED,from Streepey2000a.csv row 6
+study_summary.csv,660,A142,Error_Minus,1,2,PROPAGATED,from Streepey2000a.csv row 6
+study_summary.csv,660,A142,Age_Note,Total Gas Age,Total Gas Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 6
+study_summary.csv,661,LB93,Error_Plus,2,4,PROPAGATED,from Streepey2000a.csv row 10
+study_summary.csv,661,LB93,Error_Minus,2,4,PROPAGATED,from Streepey2000a.csv row 10
+study_summary.csv,661,LB93,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 10
+study_summary.csv,662,LB596-31b,Error_Plus,2,4,PROPAGATED,from Streepey2000a.csv row 9
+study_summary.csv,662,LB596-31b,Error_Minus,2,4,PROPAGATED,from Streepey2000a.csv row 9
+study_summary.csv,662,LB596-31b,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 9
+study_summary.csv,663,PP596-60,Error_Plus,1,2,PROPAGATED,from Streepey2000a.csv row 11
+study_summary.csv,663,PP596-60,Error_Minus,1,2,PROPAGATED,from Streepey2000a.csv row 11
+study_summary.csv,663,PP596-60,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 11
+study_summary.csv,664,SE596-49,Error_Plus,1,2,PROPAGATED,from Streepey2000a.csv row 12
+study_summary.csv,664,SE596-49,Error_Minus,1,2,PROPAGATED,from Streepey2000a.csv row 12
+study_summary.csv,664,SE596-49,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 12
+study_summary.csv,665,CN596-56,Error_Plus,2,4,PROPAGATED,from Streepey2000a.csv row 7
+study_summary.csv,665,CN596-56,Error_Minus,2,4,PROPAGATED,from Streepey2000a.csv row 7
+study_summary.csv,665,CN596-56,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 7
+Adirondack_lowlands_ages.csv,52,A112,Error_Plus,4,8,PROPAGATED,from Streepey2000a.csv row 1
+Adirondack_lowlands_ages.csv,52,A112,Error_Minus,4,8,PROPAGATED,from Streepey2000a.csv row 1
+Adirondack_lowlands_ages.csv,52,A112,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 1
+Adirondack_lowlands_ages.csv,53,A128,Error_Plus,4,8,PROPAGATED,from Streepey2000a.csv row 3
+Adirondack_lowlands_ages.csv,53,A128,Error_Minus,4,8,PROPAGATED,from Streepey2000a.csv row 3
+Adirondack_lowlands_ages.csv,53,A128,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 3
+Adirondack_lowlands_ages.csv,54,A129,Error_Plus,3,6,PROPAGATED,from Streepey2000a.csv row 4
+Adirondack_lowlands_ages.csv,54,A129,Error_Minus,3,6,PROPAGATED,from Streepey2000a.csv row 4
+Adirondack_lowlands_ages.csv,54,A129,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 4
+Adirondack_lowlands_ages.csv,55,HM95,Error_Plus,2,4,PROPAGATED,from Streepey2000a.csv row 8
+Adirondack_lowlands_ages.csv,55,HM95,Error_Minus,2,4,PROPAGATED,from Streepey2000a.csv row 8
+Adirondack_lowlands_ages.csv,55,HM95,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 8
+Adirondack_lowlands_ages.csv,56,LB596-31b,Error_Plus,2,4,PROPAGATED,from Streepey2000a.csv row 9
+Adirondack_lowlands_ages.csv,56,LB596-31b,Error_Minus,2,4,PROPAGATED,from Streepey2000a.csv row 9
+Adirondack_lowlands_ages.csv,56,LB596-31b,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 9
+Adirondack_lowlands_ages.csv,57,LB93,Error_Plus,2,4,PROPAGATED,from Streepey2000a.csv row 10
+Adirondack_lowlands_ages.csv,57,LB93,Error_Minus,2,4,PROPAGATED,from Streepey2000a.csv row 10
+Adirondack_lowlands_ages.csv,57,LB93,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 10
+Adirondack_lowlands_ages.csv,58,PP596-60,Error_Plus,1,2,PROPAGATED,from Streepey2000a.csv row 11
+Adirondack_lowlands_ages.csv,58,PP596-60,Error_Minus,1,2,PROPAGATED,from Streepey2000a.csv row 11
+Adirondack_lowlands_ages.csv,58,PP596-60,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 11
+Adirondack_highlands_ages.csv,21,A136,Error_Plus,8.0,16,PROPAGATED,from Streepey2000a.csv row 5
+Adirondack_highlands_ages.csv,21,A136,Error_Minus,8.0,16,PROPAGATED,from Streepey2000a.csv row 5
+Adirondack_highlands_ages.csv,21,A136,Age_Note,Total Gas Age,Total Gas Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 5
+Adirondack_highlands_ages.csv,22,A142,Error_Plus,1.0,2,PROPAGATED,from Streepey2000a.csv row 6
+Adirondack_highlands_ages.csv,22,A142,Error_Minus,1.0,2,PROPAGATED,from Streepey2000a.csv row 6
+Adirondack_highlands_ages.csv,22,A142,Age_Note,Total Gas Age,Total Gas Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 6
+Adirondack_highlands_ages.csv,23,CN596-56,Error_Plus,2.0,4,PROPAGATED,from Streepey2000a.csv row 7
+Adirondack_highlands_ages.csv,23,CN596-56,Error_Minus,2.0,4,PROPAGATED,from Streepey2000a.csv row 7
+Adirondack_highlands_ages.csv,23,CN596-56,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 7
+Adirondack_highlands_ages.csv,24,SE596-49,Error_Plus,1.0,2,PROPAGATED,from Streepey2000a.csv row 12
+Adirondack_highlands_ages.csv,24,SE596-49,Error_Minus,1.0,2,PROPAGATED,from Streepey2000a.csv row 12
+Adirondack_highlands_ages.csv,24,SE596-49,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2000a.csv row 12
+Streepey2004a.csv,0,A112,Error_Plus,1.39,2.78,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,0,A112,Error_Minus,1.39,2.78,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,1,A114,Error_Plus,1.78,3.56,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,1,A114,Error_Minus,1.78,3.56,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,2,A117,Error_Plus,1.62,3.24,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,2,A117,Error_Minus,1.62,3.24,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,3,A124,Error_Plus,1.34,2.68,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,3,A124,Error_Minus,1.34,2.68,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,4,A125,Error_Plus,1.93,3.86,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,4,A125,Error_Minus,1.93,3.86,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,5,A128,Error_Plus,1.29,2.58,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,5,A128,Error_Minus,1.29,2.58,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,6,A129,Error_Plus,2.1,4.2,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,6,A129,Error_Minus,2.1,4.2,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,7,A133,Error_Plus,1.63,3.26,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,7,A133,Error_Minus,1.63,3.26,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,8,A134,Error_Plus,1.34,2.68,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,8,A134,Error_Minus,1.34,2.68,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,9,A135,Error_Plus,1.24,2.48,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,9,A135,Error_Minus,1.24,2.48,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,10,A136,Error_Plus,1.37,2.74,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,10,A136,Error_Minus,1.37,2.74,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,11,A137,Error_Plus,2.31,4.62,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,11,A137,Error_Minus,2.31,4.62,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,12,A138,Error_Plus,1.5,3,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,12,A138,Error_Minus,1.5,3,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,13,A140,Error_Plus,1.27,2.54,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,13,A140,Error_Minus,1.27,2.54,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,14,A142,Error_Plus,1.44,2.88,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,14,A142,Error_Minus,1.44,2.88,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,15,A145,Error_Plus,1.12,2.24,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+Streepey2004a.csv,15,A145,Error_Minus,1.12,2.24,SIGMA,"Streepey et al. 2004 Table 2 (pp.400-405) column ""1σ error (Ma)"""
+study_summary.csv,623,A112,Error_Plus,1.39,2.78,PROPAGATED,from Streepey2004a.csv row 0
+study_summary.csv,623,A112,Error_Minus,1.39,2.78,PROPAGATED,from Streepey2004a.csv row 0
+study_summary.csv,623,A112,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 0
+study_summary.csv,624,A114,Error_Plus,1.78,3.56,PROPAGATED,from Streepey2004a.csv row 1
+study_summary.csv,624,A114,Error_Minus,1.78,3.56,PROPAGATED,from Streepey2004a.csv row 1
+study_summary.csv,624,A114,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 1
+study_summary.csv,625,A117,Error_Plus,1.62,3.24,PROPAGATED,from Streepey2004a.csv row 2
+study_summary.csv,625,A117,Error_Minus,1.62,3.24,PROPAGATED,from Streepey2004a.csv row 2
+study_summary.csv,625,A117,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 2
+study_summary.csv,626,A124,Error_Plus,1.34,2.68,PROPAGATED,from Streepey2004a.csv row 3
+study_summary.csv,626,A124,Error_Minus,1.34,2.68,PROPAGATED,from Streepey2004a.csv row 3
+study_summary.csv,626,A124,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 3
+study_summary.csv,627,A125,Error_Plus,1.93,3.86,PROPAGATED,from Streepey2004a.csv row 4
+study_summary.csv,627,A125,Error_Minus,1.93,3.86,PROPAGATED,from Streepey2004a.csv row 4
+study_summary.csv,627,A125,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 4
+study_summary.csv,628,A128,Error_Plus,1.29,2.58,PROPAGATED,from Streepey2004a.csv row 5
+study_summary.csv,628,A128,Error_Minus,1.29,2.58,PROPAGATED,from Streepey2004a.csv row 5
+study_summary.csv,628,A128,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 5
+study_summary.csv,629,A129,Error_Plus,2.1,4.2,PROPAGATED,from Streepey2004a.csv row 6
+study_summary.csv,629,A129,Error_Minus,2.1,4.2,PROPAGATED,from Streepey2004a.csv row 6
+study_summary.csv,629,A129,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 6
+study_summary.csv,630,A133,Error_Plus,1.63,3.26,PROPAGATED,from Streepey2004a.csv row 7
+study_summary.csv,630,A133,Error_Minus,1.63,3.26,PROPAGATED,from Streepey2004a.csv row 7
+study_summary.csv,630,A133,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 7
+study_summary.csv,631,A134,Error_Plus,1.34,2.68,PROPAGATED,from Streepey2004a.csv row 8
+study_summary.csv,631,A134,Error_Minus,1.34,2.68,PROPAGATED,from Streepey2004a.csv row 8
+study_summary.csv,631,A134,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 8
+study_summary.csv,632,A135,Error_Plus,1.24,2.48,PROPAGATED,from Streepey2004a.csv row 9
+study_summary.csv,632,A135,Error_Minus,1.24,2.48,PROPAGATED,from Streepey2004a.csv row 9
+study_summary.csv,632,A135,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 9
+study_summary.csv,633,A136,Error_Plus,1.37,2.74,PROPAGATED,from Streepey2004a.csv row 10
+study_summary.csv,633,A136,Error_Minus,1.37,2.74,PROPAGATED,from Streepey2004a.csv row 10
+study_summary.csv,633,A136,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 10
+study_summary.csv,634,A137,Error_Plus,2.31,4.62,PROPAGATED,from Streepey2004a.csv row 11
+study_summary.csv,634,A137,Error_Minus,2.31,4.62,PROPAGATED,from Streepey2004a.csv row 11
+study_summary.csv,634,A137,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 11
+study_summary.csv,635,A138,Error_Plus,1.5,3,PROPAGATED,from Streepey2004a.csv row 12
+study_summary.csv,635,A138,Error_Minus,1.5,3,PROPAGATED,from Streepey2004a.csv row 12
+study_summary.csv,635,A138,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 12
+study_summary.csv,636,A140,Error_Plus,1.27,2.54,PROPAGATED,from Streepey2004a.csv row 13
+study_summary.csv,636,A140,Error_Minus,1.27,2.54,PROPAGATED,from Streepey2004a.csv row 13
+study_summary.csv,636,A140,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 13
+study_summary.csv,637,A142,Error_Plus,1.44,2.88,PROPAGATED,from Streepey2004a.csv row 14
+study_summary.csv,637,A142,Error_Minus,1.44,2.88,PROPAGATED,from Streepey2004a.csv row 14
+study_summary.csv,637,A142,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 14
+study_summary.csv,638,A145,Error_Plus,1.12,2.24,PROPAGATED,from Streepey2004a.csv row 15
+study_summary.csv,638,A145,Error_Minus,1.12,2.24,PROPAGATED,from Streepey2004a.csv row 15
+study_summary.csv,638,A145,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 15
+Adirondack_lowlands_ages.csv,59,A112,Error_Plus,1.39,2.78,PROPAGATED,from Streepey2004a.csv row 0
+Adirondack_lowlands_ages.csv,59,A112,Error_Minus,1.39,2.78,PROPAGATED,from Streepey2004a.csv row 0
+Adirondack_lowlands_ages.csv,59,A112,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 0
+Adirondack_lowlands_ages.csv,60,A114,Error_Plus,1.78,3.56,PROPAGATED,from Streepey2004a.csv row 1
+Adirondack_lowlands_ages.csv,60,A114,Error_Minus,1.78,3.56,PROPAGATED,from Streepey2004a.csv row 1
+Adirondack_lowlands_ages.csv,60,A114,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 1
+Adirondack_lowlands_ages.csv,61,A124,Error_Plus,1.34,2.68,PROPAGATED,from Streepey2004a.csv row 3
+Adirondack_lowlands_ages.csv,61,A124,Error_Minus,1.34,2.68,PROPAGATED,from Streepey2004a.csv row 3
+Adirondack_lowlands_ages.csv,61,A124,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 3
+Adirondack_lowlands_ages.csv,62,A125,Error_Plus,1.93,3.86,PROPAGATED,from Streepey2004a.csv row 4
+Adirondack_lowlands_ages.csv,62,A125,Error_Minus,1.93,3.86,PROPAGATED,from Streepey2004a.csv row 4
+Adirondack_lowlands_ages.csv,62,A125,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 4
+Adirondack_lowlands_ages.csv,63,A128,Error_Plus,1.29,2.58,PROPAGATED,from Streepey2004a.csv row 5
+Adirondack_lowlands_ages.csv,63,A128,Error_Minus,1.29,2.58,PROPAGATED,from Streepey2004a.csv row 5
+Adirondack_lowlands_ages.csv,63,A128,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 5
+Adirondack_lowlands_ages.csv,64,A129,Error_Plus,2.1,4.2,PROPAGATED,from Streepey2004a.csv row 6
+Adirondack_lowlands_ages.csv,64,A129,Error_Minus,2.1,4.2,PROPAGATED,from Streepey2004a.csv row 6
+Adirondack_lowlands_ages.csv,64,A129,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 6
+Adirondack_highlands_ages.csv,25,A117,Error_Plus,1.62,3.24,PROPAGATED,from Streepey2004a.csv row 2
+Adirondack_highlands_ages.csv,25,A117,Error_Minus,1.62,3.24,PROPAGATED,from Streepey2004a.csv row 2
+Adirondack_highlands_ages.csv,25,A117,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 2
+Adirondack_highlands_ages.csv,26,A133,Error_Plus,1.63,3.26,PROPAGATED,from Streepey2004a.csv row 7
+Adirondack_highlands_ages.csv,26,A133,Error_Minus,1.63,3.26,PROPAGATED,from Streepey2004a.csv row 7
+Adirondack_highlands_ages.csv,26,A133,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 7
+Adirondack_highlands_ages.csv,27,A134,Error_Plus,1.34,2.68,PROPAGATED,from Streepey2004a.csv row 8
+Adirondack_highlands_ages.csv,27,A134,Error_Minus,1.34,2.68,PROPAGATED,from Streepey2004a.csv row 8
+Adirondack_highlands_ages.csv,27,A134,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 8
+Adirondack_highlands_ages.csv,28,A136,Error_Plus,1.37,2.74,PROPAGATED,from Streepey2004a.csv row 10
+Adirondack_highlands_ages.csv,28,A136,Error_Minus,1.37,2.74,PROPAGATED,from Streepey2004a.csv row 10
+Adirondack_highlands_ages.csv,28,A136,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 10
+Adirondack_highlands_ages.csv,29,A137,Error_Plus,2.31,4.62,PROPAGATED,from Streepey2004a.csv row 11
+Adirondack_highlands_ages.csv,29,A137,Error_Minus,2.31,4.62,PROPAGATED,from Streepey2004a.csv row 11
+Adirondack_highlands_ages.csv,29,A137,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 11
+Adirondack_highlands_ages.csv,30,A138,Error_Plus,1.5,3,PROPAGATED,from Streepey2004a.csv row 12
+Adirondack_highlands_ages.csv,30,A138,Error_Minus,1.5,3,PROPAGATED,from Streepey2004a.csv row 12
+Adirondack_highlands_ages.csv,30,A138,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 12
+Adirondack_highlands_ages.csv,31,A140,Error_Plus,1.27,2.54,PROPAGATED,from Streepey2004a.csv row 13
+Adirondack_highlands_ages.csv,31,A140,Error_Minus,1.27,2.54,PROPAGATED,from Streepey2004a.csv row 13
+Adirondack_highlands_ages.csv,31,A140,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 13
+Adirondack_highlands_ages.csv,32,A142,Error_Plus,1.44,2.88,PROPAGATED,from Streepey2004a.csv row 14
+Adirondack_highlands_ages.csv,32,A142,Error_Minus,1.44,2.88,PROPAGATED,from Streepey2004a.csv row 14
+Adirondack_highlands_ages.csv,32,A142,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 14
+Adirondack_highlands_ages.csv,33,A145,Error_Plus,1.12,2.24,PROPAGATED,from Streepey2004a.csv row 15
+Adirondack_highlands_ages.csv,33,A145,Error_Minus,1.12,2.24,PROPAGATED,from Streepey2004a.csv row 15
+Adirondack_highlands_ages.csv,33,A145,Age_Note,Plateau Age,Plateau Age; [audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Streepey2004a.csv row 15
+Warnock2000a.csv,0,94GG01a,Error_Plus,8,16,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+Warnock2000a.csv,0,94GG01a,Error_Minus,8,16,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+Warnock2000a.csv,1,94GG01b,Error_Plus,8,16,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+Warnock2000a.csv,1,94GG01b,Error_Minus,8,16,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+Warnock2000a.csv,2,Tamarack,Error_Plus,8,16,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+Warnock2000a.csv,2,Tamarack,Error_Minus,8,16,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+Warnock2000a.csv,3,94GG01a,Error_Plus,7,14,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+Warnock2000a.csv,3,94GG01a,Error_Minus,7,14,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+Warnock2000a.csv,4,94GG01b,Error_Plus,7,14,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+Warnock2000a.csv,4,94GG01b,Error_Minus,7,14,SIGMA,"Warnock et al. 2000 p.19444: ""All uncertainties are reported as 1σ""; Table 9 header ""1σ, Ma"""
+study_summary.csv,11,94GG01a,Error_Plus,8,16,PROPAGATED,from Warnock2000a.csv row 0
+study_summary.csv,11,94GG01a,Error_Minus,8,16,PROPAGATED,from Warnock2000a.csv row 0
+study_summary.csv,11,94GG01a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 0
+study_summary.csv,12,94GG01b,Error_Plus,8,16,PROPAGATED,from Warnock2000a.csv row 1
+study_summary.csv,12,94GG01b,Error_Minus,8,16,PROPAGATED,from Warnock2000a.csv row 1
+study_summary.csv,12,94GG01b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 1
+study_summary.csv,13,Tamarack,Error_Plus,8,16,PROPAGATED,from Warnock2000a.csv row 2
+study_summary.csv,13,Tamarack,Error_Minus,8,16,PROPAGATED,from Warnock2000a.csv row 2
+study_summary.csv,13,Tamarack,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 2
+study_summary.csv,14,94GG01a,Error_Plus,7,14,PROPAGATED,from Warnock2000a.csv row 3
+study_summary.csv,14,94GG01a,Error_Minus,7,14,PROPAGATED,from Warnock2000a.csv row 3
+study_summary.csv,14,94GG01a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 3
+study_summary.csv,15,94GG01b,Error_Plus,7,14,PROPAGATED,from Warnock2000a.csv row 4
+study_summary.csv,15,94GG01b,Error_Minus,7,14,PROPAGATED,from Warnock2000a.csv row 4
+study_summary.csv,15,94GG01b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 4
+Bancroft_ages.csv,4,94GG01a,Error_Plus,7,14,PROPAGATED,from Warnock2000a.csv row 3
+Bancroft_ages.csv,4,94GG01a,Error_Minus,7,14,PROPAGATED,from Warnock2000a.csv row 3
+Bancroft_ages.csv,4,94GG01a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 3
+Bancroft_ages.csv,5,94GG01b,Error_Plus,7,14,PROPAGATED,from Warnock2000a.csv row 4
+Bancroft_ages.csv,5,94GG01b,Error_Minus,7,14,PROPAGATED,from Warnock2000a.csv row 4
+Bancroft_ages.csv,5,94GG01b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 4
+Bancroft_ages.csv,12,94GG01a,Error_Plus,8,16,PROPAGATED,from Warnock2000a.csv row 0
+Bancroft_ages.csv,12,94GG01a,Error_Minus,8,16,PROPAGATED,from Warnock2000a.csv row 0
+Bancroft_ages.csv,12,94GG01a,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 0
+Bancroft_ages.csv,13,94GG01b,Error_Plus,8,16,PROPAGATED,from Warnock2000a.csv row 1
+Bancroft_ages.csv,13,94GG01b,Error_Minus,8,16,PROPAGATED,from Warnock2000a.csv row 1
+Bancroft_ages.csv,13,94GG01b,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 1
+Bancroft_ages.csv,14,Tamarack,Error_Plus,8,16,PROPAGATED,from Warnock2000a.csv row 2
+Bancroft_ages.csv,14,Tamarack,Error_Minus,8,16,PROPAGATED,from Warnock2000a.csv row 2
+Bancroft_ages.csv,14,Tamarack,Age_Note,,[audit 2026-10: errors converted published 1σ to 2σ (x2)],PROPAGATED,from Warnock2000a.csv row 2
+Morisset2009a.csv,0,2033-D,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,1,2006-C2,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,2,2042-A,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,3,2043-A,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,4,2020,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,5,2023,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,6,2006-G1,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,7,2015-B4,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,8,2030-B2,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,9,2033-D,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,10,2006-B4,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,11,2006-C4,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,12,2015-A4,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,13,2033-A2,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,14,2033-D,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,15,2036-B1B,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,16,2015-A4,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,17,2033-D,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,18,2042-A,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,19,2102,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,20,2114-B,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,21,2123-B,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,22,2132,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,23,2104-D,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,24,2109-A,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,25,2103-B3,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Morisset2009a.csv,26,2103-B3,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,0,2036-B1B,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,1,2033-D,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,2,2006-C4,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,3,2015-A4,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,4,2033-A2,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,5,2033-D,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,6,2042-A,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,7,2015-A4,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,8,2103-B3,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,9,2015-B4,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,10,2006-G1,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,11,2030-B2,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,12,2109-A,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,13,2033-D,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,14,2104-D,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,15,2042-A,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,16,2102,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,17,2006-C2,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,18,2043-A,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,19,2020,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,20,2123-B,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,21,2132,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,22,2023,Geological_Info,Habre-Saint-Pierre anorthosite,Saint-Urbain anorthosite,METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
+Allard_Urbain_ages.csv,23,2114-B,Geological_Info,Habre-Saint-Pierre anorthosite,Havre-Saint-Pierre anorthosite (Lac Allard lobe),METADATA,"Morisset et al. 2009 Table 1: Saint-Urbain (Charlevoix) and Lac Allard (Havre-Saint-Pierre) anorthosites are distinct massifs; ""Habre"" misspelt"
